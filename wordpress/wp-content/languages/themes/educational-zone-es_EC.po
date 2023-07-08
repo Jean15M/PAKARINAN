@@ -1,0 +1,409 @@
+# Translation of Themes - Educational Zone in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Educational Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-28 04:36:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Educational Zone\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Educational Zone WordPress Theme is the latest theme that will do wonders for your education-related business by allowing you to create amazing websites. The Educational Zone is primarily developed for the educational field such as schools, colleges, high school, learnn app, tutorial kit, Online Library, Online Acting School, Online Courses, Digital Skills Development Center, universities and other educational institutions. It will also serve well for kindergartens, spoken english classes, e-book writing, coaching academies, educator, elementary school, language school, classes, ballet school, e-learning, management system, online courses, online education, playroom, school, school management system, tutor, study, kindergarten, learndash compatible, school, university, institutes, kindergarten, kids school, udemy, training centres, etc. This theme has an extremely well-organized layout with a sophisticated design and provides you ample personalization options to modify the theme as per your choice. Translation readiness is another important feature. Its retina ready design displays clearer and sharper images. The minimal design serves as a great advantage as it focuses on the main and important content. This Education WordPress theme is made user-friendly and is packed with several modern features. Built on bootstrap framework, Custom Background, custom colors Educational zone comes with clean and secure code and is made interactive by including call to action (CTA) buttons. Best SEO practices are implemented in this theme to ensure the best ranks on search engines. The Educational zone has all the necessary elements to frame a modern education website."
+msgstr "El tema Educational Zone para WordPress es el último tema que hará maravillas para tu negocio relacionado con la educación al permitirte crear webs increíbles. Educational Zone está desarrollado principalmente para el campo de la educación como escuelas, colegios, universidades y otras instituciones educativas. También servirá para guarderías, aprendizaje virtual, sistema de gestión, cursos online, educación online, estudio, Udemy, centros de formación, etc. Este tema tiene un diseño extremadamente bien organizado y sofisticado y te proporciona amplias opciones de personalización para modificar el tema a tu gusto. La preparación para ser traducido es otra importante característica. Su diseño preparado para Retina muestra imágenes más claras y nítidas. El diseño mínimo es una gran ventaja, ya que se centra en el contenido principal e importante. Este tema para WordPress para la educación es fácil de usar y está lleno de varias modernas características. Construido en el marco de trabajo Bootstrap, Educational Zone viene con un código limpio y seguro y se ha hecho interactivo al incluir botones de llamada a la acción (CTA). En este tema, están implementadas las mejores prácticas SEO para asegurar el mejor posicionamiento en los motores de búsqueda. Educational Zone tiene todos los elementos necesarios para enmarcar una moderna web educativa."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Educational Zone"
+msgstr "Educational Zone"
+
+#. translators: %s: post title
+#: inc/template-tags.php:200
+msgid "%s"
+msgstr "%s"
+
+#: inc/customizer.php:152
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer.php:153
+msgid "Change theme color on one click."
+msgstr "Cambia el color del tema con un clic."
+
+#: inc/customizer.php:161
+msgid "Color Option"
+msgstr "Opción de color"
+
+#: footer.php:102
+msgid "TOP"
+msgstr "ARRIBA"
+
+#: functions.php:141
+msgid "Footer Column 1"
+msgstr "Columna 1 del pie de página"
+
+#: functions.php:151
+msgid "Footer Column 2"
+msgstr "Columna 2 del pie de página"
+
+#: functions.php:161
+msgid "Footer Column 3"
+msgstr "Columna 3 del pie de página"
+
+#. translators: 1: Theme name,
+#: footer.php:75
+msgid " %1$s "
+msgstr " %1$s "
+
+#. translators: 1: Theme author.
+#: footer.php:80
+msgid "by %1$s."
+msgstr "de %1$s."
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#. translators: %s: post title
+#: comments.php:34
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en «%s»"
+
+#: inc/customizer.php:18
+msgid "Education Zone Pro"
+msgstr "Education Zone Pro"
+
+#: inc/customizer.php:20
+msgid "GET PREMIUM"
+msgstr "OBTENER PREMIUM"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes estar conectado para finalizar la compra."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: functions.php:131
+msgid "Woocommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#: comments.php:57 comments.php:75
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:60 comments.php:78
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:61 comments.php:79
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr "Dejar una respuesta"
+
+#. translators: %s: post title
+#: comments.php:101
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta en %s"
+
+#: comments.php:102
+msgid "Cancel Reply"
+msgstr "Cancelar la respuesta"
+
+#: comments.php:103
+msgid "Post Comment"
+msgstr "Publicar el comentario"
+
+#: comments.php:108
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Puedes usar estas etiquetas y atributos <abbr title=\"HyperText Markup Language\">HTML</abbr>:"
+
+#: template-parts/navigation/navigation-top.php:10
+msgid "Open Button"
+msgstr "Botón para abrir"
+
+#: functions.php:57 template-parts/navigation/navigation-top.php:14
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: template-parts/navigation/navigation-top.php:27
+msgid "Close Button"
+msgstr "Botón para cerrar"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#. translators: %1$s: smiley
+#: 404.php:41
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: header.php:38
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:67
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Página de inicio personalizada"
+
+#. Template Name of the theme
+msgid "No Featured Image Header"
+msgstr "Ninguna imagen destacada de la cabecera"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar..."
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/customizer.php:168
+msgid "Welcome text "
+msgstr "Texto de bienvenida"
+
+#: inc/customizer.php:169 inc/customizer.php:186
+msgid "Topbar content"
+msgstr "Contenido de la barra superior"
+
+#: inc/customizer.php:177
+msgid "Welcome text"
+msgstr "Texto de bienvenida"
+
+#: inc/customizer.php:185
+msgid "Social Icons "
+msgstr "Iconos sociales"
+
+#: inc/customizer.php:205
+msgid "Facebook link"
+msgstr "Enlace de Facebook"
+
+#: inc/customizer.php:216
+msgid "Twitter link"
+msgstr "Enlace de Twitter"
+
+#: inc/customizer.php:227
+msgid "Youtube link"
+msgstr "Enlace de YouTube"
+
+#: inc/customizer.php:238
+msgid "Linkedin link"
+msgstr "Enlace de LinkedIn"
+
+#: inc/customizer.php:261
+msgid "Banner Title"
+msgstr "Título del banner"
+
+#: inc/customizer.php:273
+msgid "Banner description"
+msgstr "Descripción del banner"
+
+#: inc/customizer.php:285
+msgid "Banner button link"
+msgstr "URL del botón del banner"
+
+#: inc/customizer.php:293
+msgid "Our Course Settings"
+msgstr "Ajustes de nuestro curso"
+
+#: inc/customizer.php:302
+msgid "Add Section Title"
+msgstr "Añadir el título de la sección"
+
+#: inc/customizer.php:304
+msgid "Our Course"
+msgstr "Nuestro curso"
+
+#: inc/customizer.php:315
+msgid "Add Section Text"
+msgstr "Añadir el texto de la sección"
+
+#: inc/customizer.php:317
+msgid "Lorem ipsum is dummy text"
+msgstr "Lorem ipsum es un texto ficticio"
+
+#: inc/customizer.php:342
+msgid "Select Category to display Services"
+msgstr "Seleccionar la categoría para mostrar los servicios"
+
+#: inc/customizer.php:343
+msgid "Image Size (50 x 50)"
+msgstr "Tamaño de la imagen (50 x 50)"
+
+#: inc/customizer.php:349
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:359
+msgid "Replace the footer text"
+msgstr "Reemplazar el texto del pie de página"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:28 inc/template-tags.php:34
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Publicado el</span> %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:43
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59 inc/template-tags.php:65
+msgid ", "
+msgstr ", "
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:61
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:67
+msgid "Tagged %1$s"
+msgstr "Etiquetada como %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:75
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/template-tags.php:183
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:184 inc/template-tags.php:207
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: %s: post title
+#: inc/template-tags.php:204
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:212
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:123 functions.php:133
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: template-parts/content-image.php:26 template-parts/content-page.php:25
+#: template-parts/content-single.php:44 template-parts/content.php:34
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-image.php:39 template-parts/content-page.php:38
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/header/site-branding.php:29
+msgid "Read more"
+msgstr "Leer más"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.themagnifico.net/themes/free-education-wordpress-theme/"
+msgstr "https://www.themagnifico.net/themes/free-education-wordpress-theme/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"

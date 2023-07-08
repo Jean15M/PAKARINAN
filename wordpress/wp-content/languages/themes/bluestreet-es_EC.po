@@ -1,0 +1,969 @@
+# Translation of Themes - Bluestreet in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Bluestreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 05:10:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Bluestreet\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "BlueStreet is a Business WordPress Theme that contains a lot of features for customizing your website as you need. Since, this theme is the child theme of WallStreet WordPress Theme, so, you can make use of all the features that are present in the parent theme itself. Already thousands of users loving this theme because it is designed for multiple businesses like corporates, firms, law firms, digital media agency, architecture firm, personal, portfolio and freelancer's website. There is no separate pro version of BlueStreet Theme, you will get all the functionality in the premium version of WallStreet Theme. In the premium version you will get 2 color skins Lite and Dark, 10 predefined color schemes, feature for creating your custom color scheme, an eye-catching Slider, Services, Testimonial’s, Portfolio, Clients/ Sponsors, Blog Layouts, Layout Manager and Latest News. You will find various page templates  like About, Service, Portfolio, Blog and Contact Us. The theme has supports for popular plugins like WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium version of WallStreet theme comes with various locales. Check premium version theme demo at http://webriti.com/demo/wp/wallstreet"
+msgstr "BlueStreet es un tema de negocios para WordPress que contiene muchas características para personalizar tu web según tus necesidades. Como este tema es un tema hijo del tema WallStreet para WordPress, puedes hacer uso de todas las características que están presentes en el propio tema padre. Ya hay miles de usuarios que adoran este tema porque está diseñado para distintos tipos de negocios como empresas, firmas legales, agencias de medios digitales, empresas de arquitectura, páginas personales, porfolios y páginas de autónomos. No hay una versión Pro independiente del tema BlueStreet, la versión premium del tema Wallstreet ya incluye todas las funciones. Con la versión premium obtienes dos colores de estilo, clara y oscura, 10 esquemas de color predefinidos, una característica para crear tu propio esquema de color personalizado, un vistoso carrusel, servicios, recomendaciones, porfolio, clientes/patrocinadores, diseños de blog, gestor de diseños y últimas noticias. Encontrarás varias plantillas de página como: acerca de, servicios, portfolio, blog y sobre nosotros. El tema es compatible con varios plugins populares como: WPML, Polylang y JetPack Gallery Extensions. Simplemente entra en «Apariencia > Personalizar» para empezar a personalizar. Tanto la versión Lite como la Premium del tema WallStreet están en varios idiomas locales. Comprueba la demostración de la versión Premium en: https://webriti.com/demo/wp/wallstreet/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Bluestreet"
+msgstr "Bluestreet"
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Blog Feature"
+msgstr "Característica de blog"
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "Display your posts for specific category and show Excerpt/Full Content."
+msgstr "Muestra tus entradas de una categoría específica y muestra el extracto o el contenido completo."
+
+#: admin/inc/class-webriti-about-page.php:573
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/inc/class-webriti-about-page.php:576
+msgid "To create a shop page you just need to install this plugin & activate it"
+msgstr "Para crear una página de tienda solo tienes que instalar este plugin y activarlo"
+
+#: functions.php:147 functions.php:149
+msgid "Footer widget area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:81
+msgid "Custom FaceBook Feed"
+msgstr "Feed personalizado de Facebook"
+
+#: header.php:14
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions/customizer/customizer-blog-layout.php:25
+msgid "Blog Layout Setting"
+msgstr "Ajuste del diseño del blog"
+
+#: functions/customizer/customizer-blog-layout.php:31
+#: functions/customizer/customizer-header-layout.php:108
+msgid "Standard Layout"
+msgstr "Diseño estándar"
+
+#: functions/customizer/customizer-blog-layout.php:35
+msgid "Listed Layout"
+msgstr "Diseño de lista"
+
+#: functions/customizer/customizer-header-layout.php:77
+msgid "Header settings"
+msgstr "Ajustes de la cabecera"
+
+#: functions/customizer/customizer-header-layout.php:81
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: functions/customizer/customizer-header-layout.php:103
+msgid "Header Layout Setting"
+msgstr "Ajuste del diseño de la cabecera"
+
+#: functions/customizer/customizer-header-layout.php:112
+msgid "Center Layout"
+msgstr "Diseño centrado"
+
+#: functions/template-tag.php:93 functions/template-tag.php:213
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#: functions/template-tag.php:268
+msgid "0"
+msgstr "0"
+
+#: functions/template-tag.php:268
+msgid "1"
+msgstr "1"
+
+#: functions/template-tag.php:268
+msgid "%"
+msgstr "%"
+
+#: functions/template-tag.php:292 functions/template-tag.php:342
+msgid "No Posts to show."
+msgstr "No hay entradas para mostrar."
+
+#: functions/template-tag.php:327
+msgid "No comments"
+msgstr "No hay comentarios"
+
+#: functions/template-tag.php:327
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: functions/template-tag.php:327
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: class-tgm-plugin-activation.php:2952
+msgid "The following plugins was activated successfully:"
+msgid_plural "The following plugin were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: admin/tab-pages/support.php:11 admin/tab-pages/support.php:13
+msgid "Contact Support"
+msgstr "Contactar con el soporte"
+
+#: admin/tab-pages/support.php:12
+msgid "We want to make sure you have the best experience using bluestreet theme, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using bluestreet theme as much as we enjoy creating great products."
+msgstr "Queremos asegurarnos de que tengas la mejor experiencia al usar el tema Bluestreet y, por eso, hemos reunido aquí toda la información necesaria para ti. Esperamos que disfrutes usando el tema Bluestreet tanto como nosotros disfrutamos creando grandes productos."
+
+#: admin/inc/class-webriti-about-page.php:347 admin/tab-pages/support.php:18
+#: admin/tab-pages/support.php:20
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: admin/tab-pages/support.php:19
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "¿Quieres informarte de los últimos cambios en el tema? Consulta a continuación nuestro registro de cambios para hacerte una idea de las últimas correcciones y las nuevas características implementadas."
+
+#: admin/tab-pages/useful_plugins.php:10
+msgid "Why Upgrade to Pro?"
+msgstr "¿Por qué actualizar a Pro?"
+
+#: admin/tab-pages/free_vs_pro.php:31 admin/tab-pages/useful_plugins.php:14
+msgid "SEO Friendly URL"
+msgstr "URL optimizada para SEO"
+
+#: admin/tab-pages/useful_plugins.php:15
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Esta característica te ayuda a cambiar el nombre del slug de la URL, permitiéndote hacerla optimizada para SEO."
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Top Header Section"
+msgstr "Sección superior de la cabecera"
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid "Multi Level Navigation"
+msgstr "Navegación multinivel"
+
+#: admin/tab-pages/useful_plugins.php:30
+msgid "There are beautifully styled navigation/menus in the bluestreet theme. You can make multi level menus, which means you can create sub menus."
+msgstr "En el tema Bluestreet hay una navegación y menús con bonitos estilos. Puedes hacer menús multinivel, lo que significa que puedes crear submenús."
+
+#: admin/tab-pages/useful_plugins.php:36
+msgid "Caption Slider"
+msgstr "Leyenda del carrusel"
+
+#: admin/tab-pages/useful_plugins.php:37
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Puedes crear diapositivas ilimitadas que puedes controlar a través de los ajustes en «Apariencia > Personalizar». El carrusel es compatible con varios formatos de entradas como la estándar, la minientrada, citas, chat y vídeo."
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the bluestreet Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "En la versión premium tendrás un área superior de barra lateral en la cabecera donde puedes usar cualquier widget: todos los widgets tienen estilo. Hemos creado una serie de widgets en el tema que puedes usar aquí. Específicamente, el uso del widget de información de Bluestreet para mostrar tu ID de correo electrónico, número de contacto o cualquier otra información de tu elección."
+
+#: admin/tab-pages/useful_plugins.php:44
+msgid "Service Features"
+msgstr "Características de servicios"
+
+#: admin/tab-pages/useful_plugins.php:46
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Puedes mostrar en la página de inicio cualquier número de servicios con cientos de iconos de Font Awesome disponibles. También puedes mostrar un conjunto de servicios en una página separada usando las plantillas de página de servicios relacionados."
+
+#: admin/tab-pages/useful_plugins.php:52
+msgid "Portfolio Features"
+msgstr "Características del porfolio"
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Exhibe cualquier número de proyectos. Este tema te proporciona una opción para crear diseños de cuadrícula de 2, 3 y 4 columnas usando, respectivamente, las plantillas de diseño de porfolio de 2, 3 y 4 columnas. Si tienes una serie de proyectos para presentar, entonces estas plantillas son la respuesta. También puede crear porfolios categorizados, que muestran en un solo lugar todas las categorías de porfolio. De hecho, hemos programado este tema para que puedas crear cualquier número de porfolios diferentes."
+
+#: admin/tab-pages/useful_plugins.php:60
+msgid "Latest News Section"
+msgstr "Sección de últimas noticias"
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Esta sección suele ser usada para mostrar el tipo de contenido de últimas noticias, anuncios y eventos."
+
+#: admin/tab-pages/useful_plugins.php:67
+msgid "Testimonial Feature"
+msgstr "Característica de recomendaciones"
+
+#: admin/tab-pages/useful_plugins.php:68
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Las recomendaciones son una potente forma de ganar credibilidad. Puedes mostrar recomendaciones con un efecto de carrusel."
+
+#: admin/tab-pages/free_vs_pro.php:35 admin/tab-pages/useful_plugins.php:75
+msgid "Multiple Color Schemes"
+msgstr "Múltiples esquemas de color"
+
+#: admin/tab-pages/useful_plugins.php:76
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Tienes 13 esquemas de color preestablecidos e incluso puedes crear tus propios esquemas de color favoritos usando los ajustes personalizados de color en el personalizador."
+
+#: admin/tab-pages/useful_plugins.php:82
+msgid "Well Documented"
+msgstr "Bien documentado"
+
+#: admin/tab-pages/useful_plugins.php:83
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/wallstreet/' target='_blank'>Help Section</a>."
+msgstr "Proporcionamos buenos artículos de base de conocimiento que te ayudarán a crear webs efectivas. Puedes visitar estos artículos en nuestra <a href='https://webriti.com/help/category/themes/wallstreet/' target='_blank'>sección de ayuda</a>."
+
+#: admin/tab-pages/useful_plugins.php:90
+msgid "Custom widget"
+msgstr "Widget personalizado"
+
+#: admin/tab-pages/useful_plugins.php:91
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Crear una web con nuestros widgets personalizados es muy sencillo. Solo colócalos dentro de la barra lateral disponible o, incluso, en el contenido."
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Translation Ready"
+msgstr "Preparado para traducción"
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "El tema es compatible con otro plugin famoso: WPML. Con ayuda de este apoyo, puedes crear una web disponible en varios idiomas."
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr "Características"
+
+#: admin/tab-pages/free_vs_pro.php:16
+msgid "Frontpage Sections"
+msgstr "Secciones de la página de inicio"
+
+#: admin/tab-pages/free_vs_pro.php:17
+msgid "You will find a number of sections on the front page."
+msgstr "En la página de inicio encontrarás varias secciones."
+
+#: admin/tab-pages/free_vs_pro.php:20
+msgid "Page Templates Support"
+msgstr "Compatiblidad con plantillas de página"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Various Page Templates included in the bluestreet Premium Theme"
+msgstr "Varias plantillas de página incluidas en el tema Bluestreet Premium"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Mobile Friendly"
+msgstr "Optimizado para móviles"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Responsive layout in all devices"
+msgstr "Diseño adaptable en todos los dispositivos"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Contact Form Support"
+msgstr "Compatibilidad con formularios de contacto"
+
+#: admin/tab-pages/free_vs_pro.php:32
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Esta característica te permite renombrar el slug del tipo de contenido personalizado en la URL."
+
+#: admin/tab-pages/free_vs_pro.php:36
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Disfruta del uso de 13 esquemas de color preestablecidos. También puedes crear estilos personalizados sin tener que añadir código."
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Mostrar la ubicación de tu tienda y del negocio en tu web usando Google Maps."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Presenta tu colección de proyectos/porfolio con diseños de 2, 3 y 4 columnas. Puedes también mostrar tus proyectos/porfolio por categorías."
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "About Us Page"
+msgstr "Página «Sobre nosotros»"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Muestra los miembros del equipo, tus clientes y el contenido personalizado añadido en el editor de WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Services Page"
+msgstr "Página de servicios"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show all your services in a single place."
+msgstr "Muestra todos tus servicios en una sola página."
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Testimonial / Review Section"
+msgstr "Sección de recomendaciones/valoraciones"
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Muestra los comentarios de los usuarios en la página de inicio y en la página de servicios."
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "WPML / Polylang Support"
+msgstr "Compatibilidad con WPML y Polylang"
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "Con la ayuda de WPML, puedes hacer una web multilingüe."
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtén soporte instantáneo 24/7 en nuestro foro de soporte."
+
+#: admin/tab-pages/free_vs_pro.php:76
+msgid "Free"
+msgstr "Gratis"
+
+#: admin/tab-pages/free_vs_pro.php:79
+msgid "Top Header, Banner, Services [3 Services], Portfolio, Latest News"
+msgstr "Cabecera superior, banners, servicios (3 servicios), porfolio, últimas noticias"
+
+#: admin/tab-pages/free_vs_pro.php:80
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Plantilla de página de inicio y plantilla de página de ancho completo"
+
+#: admin/tab-pages/free_vs_pro.php:92
+msgid "WordPress Support Forum"
+msgstr "Foro de soporte de WordPress"
+
+#: admin/tab-pages/free_vs_pro.php:99
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/tab-pages/free_vs_pro.php:102
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Portfolio [Unlimited Projects], Testimonials, Latest News, Theme feature and Clients"
+msgstr "Cabecera superior, carrusel (diapositivas ilimitadas), servicios (ilimitados), porfolio (proyectos ilimitados), recomendaciones, últimas noticias, característica del tema y clientes"
+
+#: admin/tab-pages/free_vs_pro.php:104
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Sobre nosotros, servicios, porfolio, barras laterales a izquierda y derecha, blog de ancho completo, página de contacto y mucho más."
+
+#: admin/tab-pages/free_vs_pro.php:117
+msgid "Webriti Support Forum"
+msgstr "Foro de soporte de Webriti"
+
+#: admin/tab-pages/free_vs_pro.php:125
+msgid "Get PRO Version Now!"
+msgstr "¡Obtén la versión Pro ahora!"
+
+#: admin/tab-pages/getting-started.php:11
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: admin/tab-pages/getting-started.php:14
+msgid "To take full advanctage of the theme features you need to install recommended plugins."
+msgstr "Para aprovechar al máximo las características del tema, tienes que instalar los plugins recomendados."
+
+#: admin/tab-pages/getting-started.php:17
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#: admin/tab-pages/getting-started.php:21
+msgid "Start Customizing"
+msgstr "Iniciar la personalización"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "After activating recommended plugins , now you can start customization."
+msgstr "Después de activar los plugins recomendados, ahora puedes comenzar la personalización."
+
+#: admin/tab-pages/getting-started.php:27
+msgid "Go to Customizer"
+msgstr "Ir al personalizador"
+
+#: admin/tab-pages/getting-started.php:33
+msgid "bluestreet Theme"
+msgstr "Tema Bluestreet"
+
+#: admin/tab-pages/getting-started.php:39
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Demostración Lite"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "PRO Demo"
+msgstr "Demostración PRO"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Your feedback is valuable to us"
+msgstr "Tus comentarios son muy valiosos para nosotros"
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Premium Theme Details"
+msgstr "Detalles del tema premium"
+
+#: admin/inc/class-webriti-about-page.php:75 admin/inc/include-companion.php:42
+#: admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Instalando"
+
+#: admin/inc/class-webriti-about-page.php:76 admin/inc/include-companion.php:43
+#: admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Activando"
+
+#: admin/inc/class-webriti-about-page.php:77 admin/inc/include-companion.php:44
+#: admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/class-webriti-about-page.php:116
+msgid "View Theme Info"
+msgstr "Ver la información del tema"
+
+#: admin/inc/class-webriti-about-page.php:126
+msgid "About Bluestreet Theme"
+msgstr "Acerca del tema Bluestreet"
+
+#: admin/inc/class-webriti-about-page.php:127
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: admin/inc/class-webriti-about-page.php:141
+msgid "Bluestreet theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "El tema Bluestreet está instalado. Para aprovechar todas las características que este tema tiene para ofrecer, visita nuestra %1$s página de bienvenida %2$s"
+
+#: admin/inc/class-webriti-about-page.php:142
+msgid "Get started with Bluestreet theme"
+msgstr "Primeros pasos con el tema Bluestreet"
+
+#: admin/inc/class-webriti-about-page.php:263
+msgid "See changelog below:"
+msgstr "Ver el registro de cambios a continuación:"
+
+#: admin/inc/class-webriti-about-page.php:315
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: admin/inc/class-webriti-about-page.php:320
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: admin/inc/class-webriti-about-page.php:328
+msgid "Why Upgrade to PRO?"
+msgstr "¿Por qué actualizar a PRO?"
+
+#: admin/inc/class-webriti-about-page.php:335
+msgid "Free vs Pro"
+msgstr "Gratis frente a Pro"
+
+#: admin/inc/class-webriti-about-page.php:341
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/inc/class-webriti-about-page.php:425
+msgid "Install %s Now"
+msgstr "Instalar %s ahora"
+
+#: admin/inc/class-webriti-about-page.php:427
+#: admin/inc/include-companion.php:82
+msgid "Install & Activate"
+msgstr "Instalar y activar"
+
+#: admin/inc/class-webriti-about-page.php:444
+msgid "Activate %s Now"
+msgstr "Activar %s ahora"
+
+#: admin/inc/class-webriti-about-page.php:559
+#: admin/inc/include-companion.php:81 admin/inc/include-companion.php:98
+msgid "Webriti Companion"
+msgstr "Webriti Companion"
+
+#: admin/inc/class-webriti-about-page.php:562
+msgid "It is highly recommended that you install the Webriti Companion plugin to have access to the advance Frontpage sections and other theme features"
+msgstr "Es altamente recomendable que instales el plugin Webriti Companion para tener acceso a las secciones avanzadas de la página de inicio y otras características del tema"
+
+#: admin/inc/class-webriti-about-page.php:566
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/include-companion.php:80
+msgid "Webriti Companion plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Se necesita el plugin Webriti Companion para aprovechar todas las características de este tema en el personalizador."
+
+#: admin/inc/include-companion.php:81
+msgid "Install Webriti Companion Now"
+msgstr "Instalar Webriti Companion ahora"
+
+#: admin/inc/include-companion.php:97
+msgid "You have installed Webriti Companion Plugin. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Has instalado el plugin Webriti Companion. Actívalo para aprovechar las características de este tema en el personalizador."
+
+#: admin/inc/include-companion.php:98
+msgid "Activate Webriti Companion now"
+msgstr "Activar Webriti Companion ahora"
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#: admin/inc/class-webriti-about-page.php:569
+msgid "It is recommended that you install the Contact Form 7 plugin to show contact form on pages"
+msgstr "Se recomienda que instales el plugin Contact Form 7 para mostrar el formulario de contacto en las páginas"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Ajustes del copyright del pie de página"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "Texto del copyright"
+
+#: functions/customizer/customizer-copyright.php:15 theme_setup_data.php:36
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://webriti.com\" rel=\"nofollow\"> Bluestreet</a> by Webriti"
+msgstr "<a href=\"https://es-ec.wordpress.org\">Funciona gracias a WordPress</a> | Tema: <a href=\"https://webriti.com\" rel=\"nofollow\">Bluestreet</a> de Webriti"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: blog-fullwidth.php:33
+msgid "Page"
+msgstr "Página"
+
+#. Template Name of the theme
+msgid "Blog FullWidth"
+msgstr "Blog de ancho completo"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación ha comenzado. Este proceso puede tardar un poco según el alojamiento, por favor sea paciente."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: admin/inc/class-webriti-about-page.php:446
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: admin/inc/class-webriti-about-page.php:449
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activado"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin ha sido activado correctamente:"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: blog-fullwidth.php:56
+msgid "Next"
+msgstr "Siguiente"
+
+#: blog-fullwidth.php:55
+msgid "Previous"
+msgstr "Anterior"
+
+#: blog-fullwidth.php:32 functions/template-tag.php:273
+#: functions/template-tag.php:332
+msgid "Read More"
+msgstr "Leer más"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://webriti.com/bluestreet-child-version-details-page/"
+msgstr "https://webriti.com/bluestreet-child-version-details-page/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"

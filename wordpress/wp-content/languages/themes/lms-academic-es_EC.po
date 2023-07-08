@@ -1,0 +1,789 @@
+# Translation of Themes - LMS Academic in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - LMS Academic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-30 03:11:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - LMS Academic\n"
+
+#. Description of the theme
+msgid "LMS Academic is a best education, courses theme best for Education, University, School, Kindergartens websites.If you’re looking for the right theme for your school, University, selling courses, LMS Academy is the right theme for you.There’s also plenty of customization potential, so you can create a site that reflects your school’s particular ethos,  you can create course curriculums, quizzes, lesson schedules and more with ease.LMS Academic is a flexible, user-friendly and practical theme for anyone looking to create a smooth-running educational website."
+msgstr "LMS Academic es el mejor tema de educación y cursos para webs de educación, universidades, escuelas y jardines de infancia. Si estás buscando el tema adecuado para tu escuela, universidad, venta de cursos, LMS Academy es el tema adecuado para ti. También hay un gran potencial de personalización, por lo que puedes crear un sitio que refleje los valores de tu escuela en particular. Puedes crear con facilidad planes de estudio de cursos, cuestionarios, horarios de las lecciones y más. LMS Academic es un tema flexible, fácil de usar y práctico para cualquiera que quiera crear una web educativa que funcione bien."
+
+#. Theme Name of the theme
+#: footer.php:54
+msgid "LMS Academic"
+msgstr "LMS Academic"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: plugin-activation.php:3509 plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: plugin-activation.php:3509 plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugin-activation.php:1121 plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: plugin-activation.php:934 plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: plugin-activation.php:388 plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: plugin-activation.php:387 plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: plugin-activation.php:386 plugin-activation.php:827
+#: plugin-activation.php:2533 plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s. "
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s. "
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: lib/lms-academic-tgmp.php:71
+msgid "Flawless Themes Demo Import"
+msgstr "Flawless Themes Demo Import"
+
+#: lib/lms-academic-tgmp.php:65
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en «%1$s»"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-page.php:25 template-parts/content.php:45
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content.php:41
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/content-search.php:42 template-parts/content.php:55
+#: template-parts/homepage/about-section.php:55
+#: template-parts/homepage/about-section.php:104
+msgid "Read More"
+msgstr "Leer más"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Dejar un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr "Etiquetada como %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicada el %s"
+
+#: inc/lms-academic-menu.php:372
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/customizer.php:706
+msgid "Show Prefooter Section"
+msgstr "Mostrar sección anterior al pie de página"
+
+#: inc/customizer.php:689
+msgid "Prefooter Section"
+msgstr "Sección anterior al pie de página"
+
+#: inc/customizer.php:675
+msgid "Select Blog Category"
+msgstr "Seleccionar la categoría del blog"
+
+#: inc/customizer.php:657
+msgid "Blog Section Description"
+msgstr "Descripción de la sección del blog"
+
+#: inc/customizer.php:640
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer.php:623
+msgid "Show Blog Section"
+msgstr "Mostrar la sección del blog"
+
+#: inc/customizer.php:606
+msgid "Blog Section"
+msgstr "Sección del blog"
+
+#: inc/customizer.php:594
+msgid "Add Image"
+msgstr "Añadir una imagen"
+
+#: inc/customizer.php:575
+msgid "Video Link"
+msgstr "Enlace del vídeo"
+
+#: inc/customizer.php:558
+msgid "Person Name"
+msgstr "Nombre de la persona"
+
+#: inc/customizer.php:543
+msgid "Quote Message"
+msgstr "Mensaje de la cita"
+
+#: inc/customizer.php:528
+msgid "Show quote Section"
+msgstr "Mostrar la sección de citas"
+
+#: inc/customizer.php:510
+msgid "Quote Section"
+msgstr "Sección de citas"
+
+#: inc/customizer.php:491
+msgid "CTA Button Link"
+msgstr "Enlace del botón de llamada a la acción"
+
+#: inc/customizer.php:476
+msgid "CTA Button Text"
+msgstr "Texto del botón de llamada a la acción"
+
+#: inc/customizer.php:444
+msgid "Show CTA Section"
+msgstr "Mostrar la sección de llamada a la acción"
+
+#: inc/customizer.php:426
+msgid "Call to Action Section"
+msgstr "Sección de llamada a la acción"
+
+#: inc/customizer.php:402
+msgid "Choose About Page 2:"
+msgstr "Elegir la página 2 de «Acerca de»:"
+
+#: inc/customizer.php:386
+msgid "Choose About Page :"
+msgstr "Elegir la página «Acerca de»:"
+
+#: inc/customizer.php:369
+msgid "Show About Section"
+msgstr "Mostrar la sección «Acerca de»"
+
+#: inc/customizer.php:345
+msgid "About Section "
+msgstr "Sección «Acerca de»"
+
+#: inc/customizer.php:331
+msgid "Select course Posts Category"
+msgstr "Seleccionar la categoría de las entradas del curso"
+
+#: inc/customizer.php:314
+msgid "course Section Description"
+msgstr "Sección de la descripción del curso"
+
+#: inc/customizer.php:298
+msgid "course Section Title"
+msgstr "Título de la sección de cursos"
+
+#: inc/customizer.php:281
+msgid "Show course Section"
+msgstr "Mostrar la sección de cursos"
+
+#: inc/customizer.php:264
+msgid "Course Section "
+msgstr "Sección de cursos"
+
+#: inc/customizer.php:250
+msgid "Add Background Image"
+msgstr "Añadir una imagen de fondo"
+
+#: inc/customizer.php:197
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer.php:181 inc/customizer.php:459
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer.php:164
+msgid "Banner Section"
+msgstr "Sección del banner"
+
+#: inc/customizer.php:150
+msgid "Show Search Form"
+msgstr "Mostrar el formulario de búsqueda"
+
+#: inc/customizer.php:140 inc/customizer.php:231
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customizer.php:125 inc/customizer.php:216
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer.php:101
+msgid "Instagram Link"
+msgstr "Enlace a Instagram"
+
+#: inc/customizer.php:84
+msgid "Twitter Link"
+msgstr "Enlace a Twitter"
+
+#: inc/customizer.php:67
+msgid "Facebook Link"
+msgstr "Enlace a Facebook"
+
+#: inc/customizer.php:52
+msgid "Header Section"
+msgstr "Sección de la cabecera"
+
+#: inc/customizer.php:41
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer-control.php:75
+msgid "Select Category"
+msgstr "Seleccionar la categoría"
+
+#: inc/customizer-control.php:50
+msgid "Posts will be shown from the choosen category)"
+msgstr "Se mostrarán las entradas de la categoría elegida)"
+
+#: inc/customizer-control.php:27 inc/customizer-control.php:52
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer-control.php:25
+msgid "Only 3 Latest Blog Posts will be shown from the choosen Category)"
+msgstr "Solo se mostrarán las 3 últimas entradas del blog de la categoría elegida)"
+
+#: single.php:30
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: single.php:29
+msgid "Previous:"
+msgstr "Anterior:"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. translators: %s: search query.
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: footer.php:53
+msgid " | "
+msgstr " | "
+
+#: footer.php:52
+msgid "Powered By WordPress"
+msgstr "Funciona con WordPress"
+
+#: functions.php:295
+msgid "Add Footer Widget"
+msgstr "Añadir un widget al pie de página"
+
+#: functions.php:202
+msgctxt "Questrial font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:198
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:142
+msgid "Shows Widgets in Footer"
+msgstr "Mostrar los widgets en el pie de página"
+
+#: functions.php:140
+msgid "LMS Academic Footer Widget"
+msgstr "Widgets del pie de página de LMS Academic"
+
+#: functions.php:131
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: functions.php:129
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: header.php:181
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Portada"
+
+#. Author URI of the theme
+msgid "https://flawlessthemes.com/"
+msgstr "https://flawlessthemes.com/"
+
+#. Author of the theme
+msgid "flawlessthemes"
+msgstr "flawlessthemes"
+
+#. Theme URI of the theme
+msgid "https://flawlessthemes.com/theme/lms-academic-best-online-course-wordpress-theme/"
+msgstr "https://flawlessthemes.com/theme/lms-academic-best-online-course-wordpress-theme/"

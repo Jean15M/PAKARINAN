@@ -1,0 +1,37 @@
+# Translation of Themes - Arrival Me in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Arrival Me package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-13 09:14:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Arrival Me\n"
+
+#. Description of the theme
+msgid "Arrival Me is child theme of Arrival. This theme is extended & designed to meet the requirement for personal portfolio websites."
+msgstr "Arrival Me es un tema hijo de Arrival. Este tema se ha ampliado y diseñado para cumplir con los requisitos de las web de porfolio personal."
+
+#. Theme Name of the theme
+msgid "Arrival Me"
+msgstr "Arrival Me"
+
+#: functions.php:8
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Author URI of the theme
+msgid "http://wpoperation.com/"
+msgstr "http://wpoperation.com/"
+
+#. Author of the theme
+msgid "WPoperation"
+msgstr "WPoperation"
+
+#. Theme URI of the theme
+msgid "https://wpoperation.com/themes/arrival-me"
+msgstr "https://wpoperation.com/themes/arrival-me"

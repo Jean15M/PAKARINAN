@@ -1,0 +1,3172 @@
+# Translation of Themes - Make in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Make package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-07 06:15:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Make\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Build a website that means business. With Make’s powerful drag and drop page builder and hundreds of Customizer options, you can effortlessly brand your site without touching a line of code. Add full-width banners, columns, and galleries to showcase your best work. The intuitive builder delivers clean, lean code — not shortcodes — so you can trust your content remains portable. Make lets you control page layout options, including sidebar display, on all your posts and pages. Choose from hundreds of Google Fonts and upload custom backgrounds everywhere. Built on a fully responsive grid, Make renders as beautifully on tablets and phone screens as it does on desktop. Make scales with your business and is fully compatible with popular plugins like WooCommerce, Gravity Forms, Contact Form 7, Jetpack, and others. For documentation on the page builder and getting started with Make, see: https://thethemefoundry.com/make-help/"
+msgstr "Construye una web que aporte negocios. Con el potente editor de arrastrar y soltar de Make y las cientos de opciones del personalizador, puedes personalizar tu sitio sin tener que tocar una línea de código. Añade banners de ancho completo, columnas y galerías para mostrar tu mejor trabajo. El intuitivo maquetador produce código simple y limpio, sin shortcodes, por tanto puedes confiar en que tu contenido seguirá siendo exportable. Make te permite controlar las opciones de diseño de página, incluida la visualización de la barra lateral, en todas tus entradas y páginas. Elige entre cientos de fuentes de Google y carga fondos personalizados en todas partes. Desarrollado sobre una cuadrícula completamente adaptable, Make se ve igual de bien tanto en tabletas y teléfonos como en ordenadores. Make se ajusta a tu negocio y es totalmente compatible con plugins populares como WooCommerce, Gravity Forms, Contact Form 7, Jetpack y otros. Para conseguir documentación sobre el maquetador de páginas y cómo comenzar con Make, consulta: https://thethemefoundry.com/make-help/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Make"
+msgstr "Make"
+
+#: inc/customizer/definitions/layout.php:365
+msgid "%s Author"
+msgstr "Autor de %s"
+
+#: inc/customizer/definitions/layout.php:342
+msgid "%s Date"
+msgstr "Fecha de %s"
+
+#: inc/customizer/definitions/layout.php:301
+msgid "%s Title"
+msgstr "Título de %s"
+
+#: inc/customizer/definitions/layout.php:234
+msgid "Blog"
+msgstr "Blog"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activado"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/socialicons/definitions/socialicons.php:52
+msgctxt "brand name"
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: inc/gutenberg/manager.php:106
+msgid "<div>Make's builder requires the classic editor to work, but you can replace the builder with the Gutenberg editor for this particular %1s.<br>Read through our guide about <a href=\"%2s\" target=\"_blank\">getting ready for WordPress 5.0</a> to find out why.</div><div><a href=\"%3s\" class=\"button\">Use Gutenberg on this %1s</a></div>"
+msgstr "<div>El constructor de Make requiere que el editor clásico para que funcione, pero puedes reemplazarlo por el editor de Gutenberg para esta %1s en particular.<br>Lee nuestra guía sobre <a href=\"%2s\" target=\"_blank\">cómo prepararse para WordPress 5.0</a> para averiguar por qué.</div><div><a href=\"%3s\" class=\"button\">Utiliza Gutenberg en esta %1s</a></div>"
+
+#: inc/customizer/definitions/color.php:341
+msgid "Mobile Menu Trigger"
+msgstr "Activador del menú móvil"
+
+#: inc/builder/setup.php:147
+msgid "Upgrade to Make Plus Now"
+msgstr "Mejora a Make Plus ahora mismo"
+
+#: inc/builder/setup.php:144
+msgid "Did you know: with Make Plus you can use the Make builder on posts, too."
+msgstr "Sabías que: con Make Plus también puedes usar el maquetador de Make en las entradas"
+
+#: inc/builder/core/base.php:143 inc/builder/setup.php:141
+msgid "Enable post builder"
+msgstr "Activar el maquetador de entradas"
+
+#: inc/builder/core/base.php:106
+msgid "Post builder"
+msgstr "Maquetador de entradas"
+
+#: inc/builder/core/base.php:91 inc/builder/setup.php:122
+msgid "Post Builder"
+msgstr "Maquetador de entradas"
+
+#: inc/sections/setup.php:205
+msgid "Upgrade to Make Plus to get custom classes and IDs."
+msgstr "Mejora a Make Plus para conseguir clases e identificadores personalizados."
+
+#: inc/sections/setup.php:205
+msgid "Did you know: With Make Plus you can add custom classes and IDs to this section so applying custom CSS styles is easy."
+msgstr "Sabías que: con Make Plus puedes añadir clases e identificadores personalizados a esta sección, por lo que es fácil aplicar estilos CSS personalizados."
+
+#: inc/sections/setup.php:198
+msgid "Code"
+msgstr "Código"
+
+#: inc/sections/setup.php:181
+msgid "Upgrade to Make Plus to get Draft mode."
+msgstr "Mejora a Make Plus para conseguir el modo borrador."
+
+#: inc/sections/setup.php:181
+msgid "Did you know: When Draft mode is enabled, the section is hidden from the front-end, so you can continue to edit it without your readers seeing it."
+msgstr "Sabías que: cuando el modo borrador está activado, la sección se oculta en el front-end, por lo que puedes seguir editándola sin que tus lectores la vean."
+
+#: inc/sections/setup.php:177
+msgid "Draft mode"
+msgstr "Modo Borrador"
+
+#: inc/sections/setup.php:161
+msgid "Upgrade to Make Plus to get Master mode."
+msgstr "Actualiza a Make Plus para conseguir el modo maestro."
+
+#: inc/sections/setup.php:161
+msgid "Did you know: Master mode lets you add this section to other pages, or parts of pages, and changes you make will apply everywhere this section is used."
+msgstr "Sabías que: el modo maestro te permite añadir esta sección a otras páginas, o partes de páginas, y los cambios que realices se aplicarán en todos los lugares donde se use esta sección"
+
+#: inc/sections/setup.php:153 inc/sections/setup.php:159
+#: inc/sections/setup.php:203
+msgid "Master"
+msgstr "Maestro"
+
+#: inc/plus/methods.php:256
+msgid "Looking for more style controls?"
+msgstr "¿Quieres más controles de estilo?"
+
+#: inc/activation.php:74
+msgid "Make %1$s isn't compatible with your version of Make Plus. To avoid issues, Make Plus has been deactivated. Please update Make Plus."
+msgstr "Make %1$s no es compatible con tu versión de Make Plus. Para evitar problemas, Make Plus se ha desactivado. Por favor, actualiza Make Plus."
+
+#: inc/customizer/definitions/layout.php:498
+msgid "Show breadcumbs"
+msgstr "Mostrar ruta de navegación"
+
+#: inc/customizer/definitions/layout.php:470
+msgid "Hide navigation"
+msgstr "Ocultar navegación"
+
+#: inc/customizer/definitions/layout.php:464
+msgid "Post Navigation"
+msgstr "Navegación por entradas"
+
+#: inc/sections/banner/definition.php:264
+msgid "Fast"
+msgstr "Rápido"
+
+#: inc/sections/banner/definition.php:262
+msgid "Slow"
+msgstr "Lento"
+
+#: inc/sections/banner/definition.php:167
+msgid "Speed"
+msgstr "Velocidad"
+
+#: inc/sections/banner/definition.php:155
+msgid "Navigation dots"
+msgstr "Puntos de navegación"
+
+#: inc/sections/banner/definition.php:149
+msgid "Navigation arrows"
+msgstr "Flechas de Navegación"
+
+#: inc/sections/banner/definition.php:143
+msgid "Slideshow"
+msgstr "Presentación"
+
+#: inc/sections/banner/definition.php:130
+#: inc/sections/banner/definition.php:197
+#: inc/sections/columns/definition.php:120
+#: inc/sections/gallery/definition.php:133
+msgid "Darken"
+msgstr "Oscurecer"
+
+#: inc/sections/banner/definition.php:123
+#: inc/sections/columns/definition.php:113
+#: inc/sections/gallery/definition.php:126
+msgid "Display"
+msgstr "Visualización"
+
+#: inc/sections/gallery/builder-template-item.php:37
+#: inc/sections/gallery/builder-template-item.php:40
+msgid "Trash item"
+msgstr "Eliminar elemento"
+
+#: inc/sections/columns/builder-template.php:53
+msgid "Add new column"
+msgstr "Añadir nueva columna"
+
+#: inc/sections/columns/builder-template-column.php:24
+#: inc/sections/columns/builder-template-column.php:27
+msgid "Trash column"
+msgstr "Eliminar columna"
+
+#: inc/sections/banner/builder-template-slide.php:36
+#: inc/sections/banner/builder-template-slide.php:39
+msgid "Trash slide"
+msgstr "Eliminar diapositiva"
+
+#: inc/builder/core/templates/section-header.php:15
+#: inc/builder/core/templates/section-header.php:16
+msgid "Trash section"
+msgstr "Eliminar sección"
+
+#: inc/builder/core/base.php:487
+msgid "Click to edit"
+msgstr "Click para editar"
+
+#: inc/builder/core/base.php:330
+msgid "Are you sure you want to trash this section permanently?"
+msgstr "¿Estás seguro de que quieres eliminar esta sección de forma permanente?"
+
+#: inc/customizer/mods/menu.php:29
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: inc/choices/definitions/choices.php:88
+msgid "Navigation Below (Primary)"
+msgstr "Navegación debajo (Primario)"
+
+#: inc/sections/gallery/definition.php:172
+msgid "Open link in a new tab"
+msgstr "Abrir enlace en una pestaña nueva"
+
+#: inc/sections/setup.php:108
+msgid "Full width"
+msgstr "Ancho completo"
+
+#: inc/builder/core/base.php:524
+msgid "Update changes"
+msgstr "Actualizar cambios"
+
+#: inc/admin/current-notices.php:80
+msgid "The latest version of Make isn't compatible with the version of Make Plus you're using. Please update Make Plus."
+msgstr "La última versión de Make no es compatible con la versión de Make Plus que estás usando. Por favor, actualiza Make Plus."
+
+#: inc/integration/wpretina2x.php:116
+msgid "It looks like you've activated WP Retina 2x. Make sure you upload a logo image that is 200% the width you want."
+msgstr "Parece que has activado WP Retina 2x. Asegúrate de subir un logotipo que mida un 200% del ancho que buscas."
+
+#: partials/footer-credit.php:28
+msgid "Built with <a class=\"theme-name\" href=\"%s\" target=\"_blank\">Make</a>. Your friendly WordPress page builder theme."
+msgstr "Desarrollado con <a class=\"theme-name\" href=\"%s\" target=\"_blank\">Make</a>. Tu amigable tema maquetador de páginas de WordPress."
+
+#: inc/plus/methods.php:207
+msgid "The current version of the Make theme is only fully compatible with version 1.7.0 or higher of the Make Plus plugin. Please update Make Plus to the latest version."
+msgstr "La versión actual del tema Make solo es totalmente compatible con la versión 1.7.0 o posterior del plugin Make Plus. Por favor, actualiza Make Plus a la última versión."
+
+#: inc/customizer/definitions/color.php:20
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: inc/admin/current-notices.php:65
+msgid "Welcome to Make! Get up and running with our <a href=\"%s\" target=\"_blank\">Simple Start Handbook</a>."
+msgstr "¡Bienvenido/a a Make! Ponte en marcha con nuestro <a href=\"%s\" target=\"_blank\">sencillo manual de inicio</a>."
+
+#: inc/util/modules.php:222
+msgid "The \"%1$s\" module can't be retrieved from %2$s because it doesn't exist."
+msgstr "El módulo \"%1$s\" no se puede recuperar de %2$s porque no existe."
+
+#: inc/util/modules.php:170
+msgid "%1$s does not have a valid %2$s dependency"
+msgstr "%1$s no tiene una dependencia %2$s válida."
+
+#: inc/util/modules.php:117
+msgid "The %1$s module cannot be added to %2$s because it already exists."
+msgstr "El módulo %1$s no se puede añadir a %2$s porque ya existe."
+
+#: inc/util/modules.php:82
+msgid "Call to undefined method %1$s::%2$s()"
+msgstr "Llamada a un método no definido %1$s::%2$s()"
+
+#: inc/template-tags.php:154
+msgid ""
+"\n"
+"\t\t\t\tThe hook has been replaced with a theme option in the Customizer.\n"
+"\t\t\t\tThe theme option will only be available if no filters have been added to the hook.\n"
+"\t\t\t"
+msgstr ""
+"\n"
+"\n"
+"\t\t\t\tEl gancho se ha reemplazado por una opción de tema en el Personalizador.\n"
+"\t\t\t\tLa opción de tema solo estará disponible si no se han añadido filtros al gancho.\n"
+"\t\t\t"
+
+#: inc/style/manager.php:173
+msgid "To add dynamic CSS rules, use the %s hook instead."
+msgstr "Para añadir reglas CSS dinámicas, usa el gancho %s en su lugar."
+
+#: inc/style/datahelper.php:57
+msgid "To change the sanitize callback for a font setting, use the %s function instead."
+msgstr "Parea cambiar el retorno saneado de un ajuste de fuente usa la función %s."
+
+#: inc/socialicons/manager.php:505
+msgid "Make no longer uses a custom menu to output social icons. Instead, use the interface in the Customizer under <em>General &rarr; Social Icons</em>."
+msgstr "Make ya no usa un menú personalizado para mostrar iconos sociales. En su lugar, usa la interfaz del Personalizador en <em>General &rarr; Iconos sociales</em>."
+
+#: inc/socialicons/manager.php:236
+msgid "The social icon URL pattern \"%s\" can't be removed because it doesn't exist."
+msgstr "El patrón de URL del icono social \"%s\" no se puede eliminar porque no existe."
+
+#: inc/socialicons/manager.php:172
+msgid "The social icon URL pattern \"%s\" setting can't be added because it is missing required properties."
+msgstr "El patrón de URL del icono social \"%s\" no se puede añadir porque faltan las propiedades necesarias."
+
+#: inc/socialicons/manager.php:167
+msgid "The social icon URL pattern \"%s\" can't be added because it already exists."
+msgstr "La configuración del patrón de URL del icono social \"%s\" no se puede añadir porque ya existe."
+
+#: inc/socialicons/definitions/socialicons.php:67
+msgctxt "brand name"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/socialicons/definitions/socialicons.php:66
+msgctxt "brand name"
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/socialicons/definitions/socialicons.php:65
+msgctxt "brand name"
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: inc/socialicons/definitions/socialicons.php:64
+msgctxt "brand name"
+msgid "XING"
+msgstr "XING"
+
+#: inc/socialicons/definitions/socialicons.php:62
+#: inc/socialicons/definitions/socialicons.php:63
+msgctxt "brand name"
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/socialicons/definitions/socialicons.php:61
+msgctxt "brand name"
+msgid "Wei Xin"
+msgstr "Wei Xin"
+
+#: inc/socialicons/definitions/socialicons.php:60
+msgctxt "brand name"
+msgid "Sina Weibo"
+msgstr "Sina Weibo"
+
+#: inc/socialicons/definitions/socialicons.php:59
+msgctxt "brand name"
+msgid "VK"
+msgstr "VK"
+
+#: inc/socialicons/definitions/socialicons.php:58
+msgctxt "brand name"
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/socialicons/definitions/socialicons.php:57
+msgctxt "brand name"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/socialicons/definitions/socialicons.php:56
+msgctxt "brand name"
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: inc/socialicons/definitions/socialicons.php:55
+msgctxt "brand name"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/socialicons/definitions/socialicons.php:54
+msgctxt "brand name"
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/socialicons/definitions/socialicons.php:53
+msgctxt "brand name"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/socialicons/definitions/socialicons.php:51
+msgctxt "brand name"
+msgid "Trello"
+msgstr "Trello"
+
+#: inc/socialicons/definitions/socialicons.php:50
+msgctxt "brand name"
+msgid "Tencent Weibo"
+msgstr "Tencent Weibo"
+
+#: inc/socialicons/definitions/socialicons.php:49
+msgctxt "brand name"
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/socialicons/definitions/socialicons.php:48
+msgctxt "brand name"
+msgid "Steam"
+msgstr "Steam"
+
+#: inc/socialicons/definitions/socialicons.php:47
+msgctxt "brand name"
+msgid "StackOverflow"
+msgstr "StackOverflow"
+
+#: inc/socialicons/definitions/socialicons.php:46
+msgctxt "brand name"
+msgid "StackExchange"
+msgstr "StackExchange"
+
+#: inc/socialicons/definitions/socialicons.php:45
+msgctxt "brand name"
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/socialicons/definitions/socialicons.php:44
+msgctxt "brand name"
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/socialicons/definitions/socialicons.php:43
+msgctxt "brand name"
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: inc/socialicons/definitions/socialicons.php:42
+msgctxt "brand name"
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: inc/socialicons/definitions/socialicons.php:41
+msgctxt "brand name"
+msgid "RenRen"
+msgstr "RenRen"
+
+#: inc/socialicons/definitions/socialicons.php:40
+msgctxt "brand name"
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/socialicons/definitions/socialicons.php:39
+msgctxt "brand name"
+msgid "QQ"
+msgstr "QQ"
+
+#: inc/socialicons/definitions/socialicons.php:38
+msgctxt "brand name"
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/socialicons/definitions/socialicons.php:37
+msgctxt "brand name"
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: inc/socialicons/definitions/socialicons.php:36
+msgctxt "brand name"
+msgid "Medium"
+msgstr "Medio"
+
+#: inc/socialicons/definitions/socialicons.php:35
+msgctxt "brand name"
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/socialicons/definitions/socialicons.php:34
+msgctxt "brand name"
+msgid "Leanpub"
+msgstr "Leanpub"
+
+#: inc/socialicons/definitions/socialicons.php:33
+msgctxt "brand name"
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: inc/socialicons/definitions/socialicons.php:32
+msgctxt "brand name"
+msgid "JSFiddle"
+msgstr "JSfiddle"
+
+#: inc/socialicons/definitions/socialicons.php:31
+msgctxt "brand name"
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/socialicons/definitions/socialicons.php:30
+msgctxt "brand name"
+msgid "Houzz"
+msgstr "Houzz"
+
+#: inc/socialicons/definitions/socialicons.php:29
+msgctxt "brand name"
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/socialicons/definitions/socialicons.php:28
+msgctxt "brand name"
+msgid "GitLab"
+msgstr "GitLab"
+
+#: inc/socialicons/definitions/socialicons.php:27
+msgctxt "brand name"
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/socialicons/definitions/socialicons.php:26
+msgctxt "brand name"
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/socialicons/definitions/socialicons.php:25
+msgctxt "brand name"
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/socialicons/definitions/socialicons.php:24
+msgctxt "brand name"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/socialicons/definitions/socialicons.php:23
+msgctxt "brand name"
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/socialicons/definitions/socialicons.php:22
+msgctxt "brand name"
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/socialicons/definitions/socialicons.php:21
+msgctxt "brand name"
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: inc/socialicons/definitions/socialicons.php:20
+msgctxt "brand name"
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/socialicons/definitions/socialicons.php:19
+msgctxt "brand name"
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/socialicons/definitions/socialicons.php:18
+msgctxt "brand name"
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: inc/socialicons/definitions/socialicons.php:17
+msgctxt "brand name"
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/socialicons/definitions/socialicons.php:16
+msgctxt "brand name"
+msgid "App.net"
+msgstr "App.net"
+
+#: inc/socialicons/definitions/socialicons.php:15
+msgctxt "brand name"
+msgid "AngelList"
+msgstr "AngelList"
+
+#: inc/socialicons/definitions/socialicons.php:14
+msgctxt "brand name"
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/socialicons/definitions/socialicons.php:13
+msgctxt "brand name"
+msgid "500px"
+msgstr "500px"
+
+#: inc/setup/widgets.php:148
+msgid "This widget area is currently disabled. Enable it in the \"Footer\" section of the \"Layout\" panel in the Customizer."
+msgstr "Esta área de widgets está desactivada actualmente. Actívala en la sección \"Pie de página\" del panel \"Diseño\" en el Personalizador."
+
+#: inc/settings/thememod.php:157 inc/settings/thememod.php:261
+msgid "To add or modify theme settings, use the %1$s function instead. See the <a href=\"%2$s\" target=\"_blank\">Theme Settings API documentation</a>."
+msgstr "Para añadir o modificar ajustes de tema, usa la función %1$s en su lugar. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de ajustes de tema</a>."
+
+#: inc/settings/base.php:487
+msgid "The sanitize callback (%1$s) for \"%2$s\" is not valid."
+msgstr "El retorno saneado (%1$s) de \"%2$s\" no es válido."
+
+#: inc/settings/base.php:187
+msgid "The \"%s\" setting can't be removed because it doesn't exist."
+msgstr "El ajuste \"%s\" no se puede eliminar porque no existe."
+
+#: inc/settings/base.php:123
+msgid "The \"%s\" setting can't be added because it is missing required properties."
+msgstr "El ajuste \"%s\" no se puede añadir porque le faltan propiedades necesarias."
+
+#: inc/settings/base.php:118
+msgid "The \"%s\" setting can't be added because it already exists."
+msgstr "El ajuste \"%s\" no se puede añadir porque ya existe."
+
+#: inc/plus/methods.php:455
+msgid "Convert any column into an area for widgets. %s"
+msgstr "Convierte cualquier columna en un área de widgets. %s"
+
+#: inc/plus/methods.php:192
+msgid "A new version of Make Plus is available. If you encounter problems updating through <a href=\"%1$s\">the WordPress interface</a>, please <a href=\"%2$s\" target=\"_blank\">follow these steps</a> to update manually."
+msgstr "Hay disponible una nueva versión de Make Plus. Si tienes problemas al actualizar usando <a href=\"%1$s\">la interfaz de WordPress</a>, por favor, <a href=\"%2$s\" target=\"_blank\">sigue estos pasos</a> para actualizar de forma manual."
+
+#: inc/layout/view.php:370
+msgid "View cannot be accurately determined until during or after the %s action."
+msgstr "La vista no se puede determinar con precisión hasta durante o después de la acción %s."
+
+#: inc/layout/view.php:202
+msgid "The \"%s\" view can't be removed because it doesn't exist."
+msgstr "La vista \"%s\" no se puede eliminar porque no existe."
+
+#: inc/layout/view.php:180
+msgid "The view callback (%1$s) for \"%2$s\" is not valid."
+msgstr "El retorno d evista (%1$s) de \"%2$s\" no es válido."
+
+#: inc/layout/view.php:155
+msgid "The \"%s\" view can't be added because it already exists."
+msgstr "La vista \"%s\" no se puede añadir porque ya existe."
+
+#: inc/customizer/definitions/layout.php:238 inc/layout/view.php:79
+msgid "Page"
+msgstr "Página"
+
+#: inc/formatting/manager.php:190
+msgid "To add or modify Format Builder formats, use the %1$s method instead. See %2$s."
+msgstr "Para añadir o modificar formatos de Format Builder utiliza el método %1$s. Ver %2$s."
+
+#: inc/formatting/manager.php:154
+msgid "The \"%s\" format can't be removed because it doesn't exist."
+msgstr "El formato \"%s\" no se puede eliminar porque no existe."
+
+#: inc/formatting/manager.php:121
+msgid "The \"%s\" format can't be added because it already exists."
+msgstr "El formato \"%s\" no se puede añadir porque ya existe."
+
+#: inc/font/source/google.php:145
+msgid "To modify Google fonts, use the %1$s filter hook instead. See the <a href=\"%2$s\" target=\"_blank\">Font API documentation</a>."
+msgstr "Para modificar las fuentes de Google, usa el filtro %1$s en su lugar. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de fuentes</a>."
+
+#: inc/font/source/generic.php:77
+msgid "To modify Standard fonts, use the %1$s filter hook instead. See the <a href=\"%2$s\" target=\"_blank\">Font API documentation</a>."
+msgstr "Para modificar las fuentes estándar, usa el filtro %1$s en su lugar. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de fuentes</a>."
+
+#: inc/font/source/generic.php:37
+msgid "Generic Fonts"
+msgstr "Fuentes genéricas"
+
+#: inc/font/manager.php:345 inc/font/source/generic.php:102
+msgid "To add fonts, use the %1$s function. To modify existing fonts, use a filter hook for a specific font source, such as %2$s. See the <a href=\"%3$s\" target=\"_blank\">Font API documentation</a>."
+msgstr "Para añadir fuentes, usa la función %1$s. Para modificar fuentes existentes, usa un filtro para un origen de fuente específico, como %2$s. Consulta la <a href=\"%3$s\" target=\"_blank\">documentación de la API de fuentes</a>."
+
+#: inc/font/manager.php:105
+msgid "\"%s\" can't be added because it isn't a valid font source."
+msgstr "\"%s\" no se puede añadir porque no es un origen de fuente válido."
+
+#: inc/error/section.php:34
+msgid "No Make Notices"
+msgstr "Ningún aviso de Make"
+
+#: inc/error/display.php:515
+msgid "Error code: %s"
+msgstr "Código de error: %s"
+
+#: inc/error/display.php:511
+msgid "This notification is only visible to users who are logged in and have the capability to install themes. To hide it completely, add this code to your functions.php file: %s"
+msgstr "Este aviso solo es visible para los usuarios que han iniciado sesión y tienen la capacidad de instalar temas. Para ocultarlo completamente, añade este código a tu archivo functions.php: %s"
+
+#: inc/error/display.php:509
+msgid "How can I hide this notification?"
+msgstr "¿Cómo puedo ocultar este aviso?"
+
+#: inc/error/display.php:507
+msgid "Check to see if your child theme or plugin has an update available, as a new version may include changes that fix the errors. If it is caused by custom code, you will need to modify the code to fix the errors. Check out our article about <a href=\"%s\" target=\"_blank\">dealing with Make Notices</a> to learn more."
+msgstr "Comprueba si tu tema hijo o plugin disponen de alguna actualización, ya que nuevas versiones pueden incluir cambios que corrijan los errores. Si éstos están provocados por código personalizado, deberás modificar el código para corregir los errores. Echa un vistazo a nuestro artículo sobre <a href=\"%s\" target=\"_blank\">cómo lidiar con los avisos de Make</a> para obtener más información."
+
+#: inc/error/display.php:505
+msgid "How do I fix a Make notice?"
+msgstr "¿Cómo puedo arreglar un aviso de Make?"
+
+#: inc/error/display.php:503
+msgid "Absolutely! These notices may indicate that some part of your site is not working correctly. We don't want that."
+msgstr "¡Absolutamente! Estos avisos pueden indicar que alguna parte de tu sitio no funciona correctamente. No queremos eso."
+
+#: inc/error/display.php:501
+msgid "Is it important to fix these notices?"
+msgstr "¿Es importante arreglar estos avisos?"
+
+#: inc/error/display.php:499
+msgid "Make notices occur when Make's functionality is used incorrectly. Often these notices are triggered by code errors in a child theme or plugin that extends the theme. The notice messages help you to identify the cause of the errors so they can be fixed."
+msgstr "Los avisos de Make aparecen cuando alguna funcionalidad de Make se usa incorrectamente. A menudo, estos avisos se activan debido a errores de código en un tema hijo o plugin que extiende el tema. Los mensajes de aviso te ayudan a identificar la causa de los errores para que se puedan corregir."
+
+#: inc/error/display.php:497
+msgid "What is a Make notice?"
+msgstr "¿Qué es un aviso de Make?"
+
+#: inc/error/display.php:447
+msgid "%s Make Notice"
+msgid_plural "%s Make Notices"
+msgstr[0] "%s aviso de Make"
+msgstr[1] "%s avisos de Make"
+
+#: inc/error/display.php:426
+msgid "Show notices"
+msgstr "Mostrar avisos"
+
+#: inc/customizer/mods/site-title-tagline.php:33
+msgid "To continue displaying a retina version of your logo, use a plugin such as <a href=\"%1$s\" target=\"_blank\">%2$s</a>."
+msgstr "Para seguir mostrando una versión retina de tu logotipo, usa un plugin como <a href=\"%1$s\" target=\"_blank\">%2$s</a>."
+
+#: inc/customizer/definitions/typography.php:28
+msgid "Content Headings"
+msgstr "Encabezados de contenido"
+
+#: inc/customizer/definitions/general.php:80
+msgid "Add a link to each of your social profiles and we'll add the icon to match — it's that simple. Drag and drop to rearrange."
+msgstr "Añade un enlace a cada uno de tus perfiles sociales y añadiremos el icono correspondiente — es así de sencillo. Arrastra y suelta para reorganizar."
+
+#: inc/customizer/definitions/general.php:72
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/definitions/general.php:24
+msgid "Search Field Label"
+msgstr "Etiqueta del campo de búsqueda"
+
+#: inc/customizer/definitions/color.php:118
+msgid "Button Background Hover/Focus Color"
+msgstr "Color del fondo del botón al pasar el cursor/establecerse como foco"
+
+#: inc/customizer/definitions/color.php:111
+msgid "Button Text Hover/Focus Color"
+msgstr "Color del texto del botón al pasar el cursor/establecerse como foco"
+
+#: inc/customizer/definitions/color.php:104
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: inc/customizer/definitions/color.php:97
+msgid "Button Text Color"
+msgstr "Botón Color del texto"
+
+#: inc/customizer/definitions/color.php:90
+#: inc/customizer/definitions/typography.php:21
+msgid "Buttons"
+msgstr "Botones"
+
+#: inc/customizer/datahelper.php:46
+#: inc/customizer/definitions/background-images.php:77
+#: inc/customizer/definitions/color.php:596
+#: inc/customizer/definitions/general.php:98
+#: inc/customizer/definitions/layout.php:520
+#: inc/customizer/definitions/typography.php:145
+msgid "To add or modify Customizer sections and controls, use the %1$s hook instead, or the core %2$s methods."
+msgstr "Para añadir o modificar secciones y controles del personalizador, utiliza el gancho %1$s en su lugar, o los métodos del núcleo %2$s."
+
+#: inc/customizer/controls.php:326
+msgid "The \"%s\" section can't be added because it already exists."
+msgstr "La sección \"%s\" no se puede añadir porque ya existe."
+
+#: inc/customizer/control/socialicons.php:166 inc/error/display.php:492
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/customizer/control/socialicons.php:164
+msgid "Available Social Icons"
+msgstr "Iconos de redes sociales disponibles"
+
+#: inc/customizer/control/socialicons.php:140
+msgid "Social profile URL"
+msgstr "URL del perfil social"
+
+#: inc/customizer/control/socialicons.php:137
+#: inc/customizer/control/socialicons.php:138
+msgid "Custom RSS feed URL"
+msgstr "URL del feed RSS personalizado"
+
+#: inc/customizer/control/socialicons.php:134
+#: inc/customizer/control/socialicons.php:135
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/customizer/control/socialicons.php:108
+msgid "Open icon links in a new tab"
+msgstr "Abrir enlaces de iconos en una nueva pestaña"
+
+#: inc/customizer/control/socialicons.php:105
+msgid "Leave the &ldquo;Custom RSS feed URL&rdquo; field blank to use the default RSS feed URL."
+msgstr "Deja en blanco el campo de la &ldquo;URL del feed personalizado&rdquo; para usar la URL del feed RSS predeterminado."
+
+#: inc/customizer/control/socialicons.php:103
+msgid "Include RSS feed icon"
+msgstr "Incluir icono de RSS"
+
+#: inc/customizer/control/socialicons.php:99
+msgid "Include email icon"
+msgstr "Incluir icono de correo electrónico"
+
+#: inc/customizer/control/socialicons.php:94
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/control/socialicons.php:93
+msgid "See Available Icons"
+msgstr "Ver iconos disponibles"
+
+#: inc/compatibility/settingsmigration.php:404
+msgid "The restore process failed."
+msgstr "El proceso de restauración ha fallado."
+
+#: inc/compatibility/settingsmigration.php:392
+msgid "The child theme settings backup was restored!"
+msgstr "¡La copia de seguridad de los ajustes del tema hijo se ha restaurado!"
+
+#: inc/compatibility/settingsmigration.php:365
+msgid "No child theme settings backup was found to restore."
+msgstr "No se ha encontrado ninguna copia de seguridad para restaurar los ajustes del tema hijo."
+
+#: inc/compatibility/settingsmigration.php:339
+msgid "The import process failed."
+msgstr "El proceso de importación ha fallado."
+
+#: inc/compatibility/settingsmigration.php:329
+msgid "The parent theme settings were imported!"
+msgstr "¡Se han importado los ajustes del tema padre!"
+
+#: inc/compatibility/settingsmigration.php:318
+#: inc/compatibility/settingsmigration.php:384
+msgid "Existing child theme settings were backed up."
+msgstr "Se ha hecho una copia de seguridad de los ajustes del tema hijo actual."
+
+#: inc/compatibility/settingsmigration.php:302
+msgid "No parent theme settings were found to import."
+msgstr "No se han encontrado ajustes del tema padre para importar."
+
+#: inc/compatibility/settingsmigration.php:259
+msgid "Cheatin&#8217; uh?"
+msgstr "¡Haciendo trampas! ¿eh?"
+
+#: inc/compatibility/settingsmigration.php:245
+msgid "Invalid action."
+msgstr "Acción no válida."
+
+#: inc/compatibility/settingsmigration.php:232
+#: inc/compatibility/settingsmigration.php:246
+#: inc/compatibility/settingsmigration.php:260
+#: inc/compatibility/settingsmigration.php:405
+msgid "No settings migration has taken place."
+msgstr "No se ha llevado a cabo ninguna migración de ajustes."
+
+#: inc/compatibility/settingsmigration.php:231
+msgid "Please verify that you have backed up your database."
+msgstr "Por favor, comprueba que hayas hecho una copia de seguridad de tu base de datos."
+
+#: inc/compatibility/settingsmigration.php:205
+msgid "Restore"
+msgstr "Restaurar"
+
+#: inc/compatibility/settingsmigration.php:187
+msgid "Use this tool to restore settings that were previously overwritten when importing parent theme settings."
+msgstr "Usa esta herramienta para restaurar los ajustes que se sobrescribieron previamente al importar los ajustes del tema padre."
+
+#: inc/compatibility/settingsmigration.php:186
+msgid "Restore previous theme settings"
+msgstr "Restaurar ajustes anteriores del tema"
+
+#: inc/compatibility/settingsmigration.php:182
+msgid "There are no parent theme settings to import."
+msgstr "No hay ajustes del tema padre que importar."
+
+#: inc/compatibility/settingsmigration.php:178
+msgid "Import"
+msgstr "Importar"
+
+#: inc/compatibility/settingsmigration.php:168
+#: inc/compatibility/settingsmigration.php:195
+msgid "I have backed up my database. (<a href=\"%s\" target=\"_blank\">How?</a>)"
+msgstr "He hecho una copia de seguridad de mi base de datos. (<a href=\"%s\" target=\"_blank\">¿Cómo?</a>)"
+
+#: inc/compatibility/settingsmigration.php:161
+#: inc/compatibility/settingsmigration.php:188
+msgid "Note that in doing this, your database will be modified. Any existing settings that have already been configured for the current theme will be overwritten."
+msgstr "Ten en cuenta que al hacer esto, tu base de datos se modificará. Cualquier ajuste existente ya configurado para el tema actual se sobrescribirá."
+
+#: inc/compatibility/settingsmigration.php:160
+msgid "Use this tool to migrate your existing settings from the parent theme to your child theme."
+msgstr "Usa esta herramienta para migrar los ajustes actuales de tu tema padre a tu tema hijo."
+
+#: inc/compatibility/settingsmigration.php:158
+msgid "Import settings from the parent theme"
+msgstr "Importar ajustes del tema padre"
+
+#: inc/compatibility/settingsmigration.php:156
+msgid "This site is currently using a child theme. Any changes made in the Customizer to the Make parent theme before the child theme was activated do not carry over. You can use this tool to import these settings into the child theme so you don't have to start over again!"
+msgstr "Este sitio está usando un tema hijo actualmente. Cualquier cambio realizado en el Personalizador al tema padre Make antes de que se activara el tema hijo no se transfiere. ¡Puedes usar esta herramienta para importar estos ajustes en el tema hijo para que no tengas que comenzar de nuevo!"
+
+#: inc/compatibility/settingsmigration.php:153
+msgid "Migrate Theme Settings"
+msgstr "Migrar ajustes del tema"
+
+#: inc/compatibility/settingsmigration.php:126
+#: inc/compatibility/settingsmigration.php:127
+msgid "Migrate Settings"
+msgstr "Migrar ajustes"
+
+#: inc/compatibility/settingsmigration.php:95
+msgid "You've activated a child theme! It looks like the parent theme's settings have previously been configured in the Customizer. Would you like to <a href=\"%s\">import these settings into the child theme</a>?"
+msgstr "¡Has activado un tema hijo! Parece que los ajustes del tema padre se han configurado en el Personalizador previamente. ¿Quieres <a href=\"%s\">importar estos ajustes al tema hijo</a>?"
+
+#: inc/compatibility/methods.php:394
+msgid "<strong>%1$s</strong> was called incorrectly. %2$s"
+msgstr "<strong>%1$s</strong> se ha llamado de forma incorrecta. %2$s"
+
+#: inc/compatibility/methods.php:387
+msgid "%1$s (This message was added in version %2$s.)"
+msgstr "%1$s (Este mensaje se añadió en la versión %2$s.)"
+
+#: inc/compatibility/methods.php:346
+msgid "The <strong>%1$s</strong> hook is deprecated since version %2$s of Make. %3$s"
+msgstr "El gancho <strong>%1$s</strong> es obsoleto desde la versión %2$s de Make. %3$s"
+
+#: inc/compatibility/methods.php:295 inc/compatibility/methods.php:342
+msgid "No alternative is available."
+msgstr "No existe ninguna alternativa."
+
+#: inc/compatibility/methods.php:291
+msgid "Use <code>%s</code> instead."
+msgstr "Usa <code>%s</code> en su lugar."
+
+#: inc/compatibility/methods.php:287
+msgid "<strong>%1$s</strong> is deprecated since version %2$s of Make. %3$s"
+msgstr "<strong>%1$s</strong> es obsoleto desde la versión %2$s de Make. %3$s"
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:2528
+#: inc/compatibility/deprecated/deprecated-1.7.php:2551
+#: inc/compatibility/deprecated/deprecated-1.7.php:2602
+#: inc/compatibility/deprecated/deprecated-1.7.php:2631
+#: inc/compatibility/deprecated/deprecated-1.7.php:2660
+msgid "The %1$s control is deprecated. Use %2$s instead."
+msgstr "El control %1$s es obsoleto. Usa %2$s en su lugar."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:1775
+#: inc/compatibility/deprecated/deprecated-1.7.php:1788
+msgid "Use methods from %s instead."
+msgstr "Usa métodos de %s en su lugar."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:1427
+#: inc/compatibility/deprecated/deprecated-1.7.php:1444
+msgid "To add a style rule, use the %1$s function. See the <a href=\"%2$s\" target=\"_blank\">Style API documentation</a>."
+msgstr "Para añadir una regla de estilo, usa la función %1$s. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de estilo</a>."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:1105
+#: inc/settings/thememod.php:337
+msgid "To add or modify setting choices, use the %1$s function instead. See the <a href=\"%2$s\" target=\"_blank\">Choices API documentation</a>."
+msgstr "Para añadir o modificar los ajustes elegidos, utiliza la función %1$s en su lugar. Mira la <a href=\"%2$s\" target=\"_blank\">documentación de la API de opciones</a>."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:615
+#: inc/compatibility/deprecated/deprecated-1.7.php:658
+#: inc/socialicons/manager.php:265 inc/socialicons/manager.php:659
+msgid "To add or modify social icons, use the %1$s function instead. See the <a href=\"%2$s\" target=\"_blank\">Social Icons API documentation</a>."
+msgstr "Para añadir o modificar iconos sociales, usa la función %1$s en su lugar. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de iconos sociales</a>."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:601
+#: inc/compatibility/deprecated/deprecated-1.7.php:642
+msgid "See the <a href=\"%s\" target=\"_blank\">Social Icons API documentation</a>."
+msgstr "Consulta la <a href=\"%s\" target=\"_blank\">documentación de la API de iconos sociales</a>."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:522 inc/layout/view.php:397
+msgid "To add or modify theme views, use the %1$s function instead. See the <a href=\"%2$s\" target=\"_blank\">View API documentation</a>."
+msgstr "Para añadir o modificar vistas de tema, usa la función %1$s en su lugar. Consulta la <a href=\"%2$s\" target=\"_blank\">documentación de la API de vistas</a>."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:460
+#: inc/compatibility/deprecated/deprecated-1.7.php:695
+#: inc/compatibility/deprecated/deprecated-1.7.php:706
+#: inc/compatibility/deprecated/deprecated-1.7.php:730
+#: inc/compatibility/deprecated/deprecated-1.7.php:741
+#: inc/compatibility/deprecated/deprecated-1.7.php:762
+#: inc/compatibility/deprecated/deprecated-1.7.php:773
+#: inc/compatibility/deprecated/deprecated-1.7.php:827
+#: inc/compatibility/deprecated/deprecated-1.7.php:1164
+#: inc/compatibility/deprecated/deprecated-1.7.php:1175
+#: inc/compatibility/deprecated/deprecated-1.7.php:1196
+#: inc/compatibility/deprecated/deprecated-1.7.php:1209
+#: inc/compatibility/deprecated/deprecated-1.7.php:1230
+#: inc/compatibility/deprecated/deprecated-1.7.php:1243
+#: inc/compatibility/deprecated/deprecated-1.7.php:1264
+#: inc/compatibility/deprecated/deprecated-1.7.php:1277
+#: inc/compatibility/deprecated/deprecated-1.7.php:1298
+#: inc/compatibility/deprecated/deprecated-1.7.php:1309
+#: inc/compatibility/deprecated/deprecated-1.7.php:1330
+#: inc/compatibility/deprecated/deprecated-1.7.php:1341
+#: inc/compatibility/deprecated/deprecated-1.7.php:1362
+#: inc/compatibility/deprecated/deprecated-1.7.php:1373
+#: inc/compatibility/deprecated/deprecated-1.7.php:1394
+#: inc/compatibility/deprecated/deprecated-1.7.php:1405
+#: inc/compatibility/deprecated/deprecated-1.7.php:2371
+#: inc/compatibility/deprecated/deprecated-1.7.php:2384
+msgid "This function has been moved to %s."
+msgstr "Esta función se ha movido a %s."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:206
+#: inc/compatibility/deprecated/deprecated-1.7.php:214
+msgid "Use the core script registration functions instead."
+msgstr "Utiliza las funciones de registro del script del núcleo en su lugar."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:117
+#: inc/compatibility/deprecated/deprecated-1.7.php:125
+msgid "Use the core sidebar registration functions instead."
+msgstr "Utiliza las funciones de registro de la barra lateral del núcleo en su lugar."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:86
+#: inc/compatibility/deprecated/deprecated-1.7.php:97
+#: inc/compatibility/hookprefixer.php:131
+#: inc/compatibility/hookprefixer.php:190 inc/font/source/google.php:344
+#: inc/logo/legacy.php:351 inc/logo/legacy.php:416 inc/logo/methods.php:176
+#: inc/settings/sanitize.php:145 inc/settings/sanitize.php:185
+#: inc/settings/sanitize.php:240
+msgid "Use the %s hook instead."
+msgstr "Usa el gancho %s en su lugar."
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:52
+#: inc/compatibility/deprecated/deprecated-1.7.php:64
+#: inc/compatibility/deprecated/deprecated-1.7.php:144
+#: inc/compatibility/deprecated/deprecated-1.7.php:156
+#: inc/compatibility/deprecated/deprecated-1.7.php:233
+#: inc/compatibility/deprecated/deprecated-1.7.php:245
+msgid "Add/remove actions from the %1$s hook instead. See %2$s."
+msgstr "Añade/elimina acciones del gancho %1$s en su lugar. Consulta %2$s."
+
+#: inc/compatibility/deprecated/deprecated-1.5.php:47
+#: inc/compatibility/deprecated/deprecated-1.5.php:61
+#: inc/compatibility/deprecated/deprecated-1.7.php:324
+#: inc/compatibility/deprecated/deprecated-1.7.php:338
+#: inc/compatibility/deprecated/deprecated-1.7.php:363
+#: inc/compatibility/deprecated/deprecated-1.7.php:377
+#: inc/compatibility/deprecated/deprecated-1.7.php:401
+#: inc/compatibility/deprecated/deprecated-1.7.php:415
+msgid "Add/remove filters from the %1$s hook instead. See %2$s."
+msgstr "Añade/elimina filtros del gancho %1$s en su lugar. Consulta %2$s."
+
+#: inc/choices/manager.php:230
+msgid "\"%1$s\" is not a valid choice in the \"%2$s\" set."
+msgstr "\"%1$s\" no es una opción válida dentro del conjunto \"%2$s\"."
+
+#: inc/choices/manager.php:161
+msgid "The \"%s\" choice set can't be removed because it doesn't exist."
+msgstr "El conjunto de opciones \"%s\" no se puede eliminar porque no existe."
+
+#: inc/choices/manager.php:122
+msgid "The \"%s\" choice set can't be added because it already exists."
+msgstr "El conjunto de opciones \"%s\" no se puede añadir porque ya existe. "
+
+#: inc/choices/definitions/choices.php:114 inc/socialicons/manager.php:290
+#: inc/socialicons/manager.php:358
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/admin/current-notices.php:50
+msgid "Looking to take Make even further? Learn to <a href=\"%1$s\" target=\"_blank\">install a child theme</a> and <a href=\"%2$s\" target=\"_blank\">apply custom code</a>."
+msgstr "¿Quieres dar un paso más allá con Make? Aprende a <a href=\"%1$s\" target=\"_blank\">instalar un tema hijo</a> y <a href=\"%2$s\" target=\"_blank\">aplicar código personalizado</a>."
+
+#: inc/admin/current-notices.php:36
+msgid "This is the page builder. Learn to <a href=\"%s\" target=\"_blank\">add, edit and arrange sections</a>."
+msgstr "Éste es el maquetador de páginas. Aprende a <a href=\"%s\" target=\"_blank\">añadir, editar y organizar secciones</a>."
+
+#: inc/admin/current-notices.php:18
+msgid "Make requires version %1$s of WordPress or higher. Your current version is %2$s. Please <a href=\"%3$s\">update WordPress</a> to ensure full compatibility."
+msgstr "Make requiere la versión %1$s de WordPress o posterior. Tu versión actual es la %2$s. Por favor, <a href=\"%3$s\">actualiza WordPress</a> para garantizar la compatibilidad total."
+
+#: functions.php:385
+msgid "The style rule does not have the required properties."
+msgstr "La regla de estilo no tiene las propiedades necesarias."
+
+#: functions.php:102 functions.php:157 functions.php:212 functions.php:266
+#: functions.php:319 functions.php:373
+msgid "This function should only be called during the %s action."
+msgstr "Esta función solo debería llamarse durante la acción %s."
+
+#: functions.php:58
+msgid "The Make() function should not be called before the make_api_loaded action has fired."
+msgstr "No se debe llamar a la función Make() antes de que la acción make_api_loaded se haya ejecutado."
+
+#: inc/integration/yoastseo.php:181
+msgid "Show breadcrumbs"
+msgstr "Mostrar \"migajas de pan\""
+
+#: inc/integration/yoastseo.php:168
+msgid "The Yoast SEO plugin enables this option."
+msgstr "El plugin Yoast SEO activa esta opción."
+
+#: inc/customizer/definitions/layout.php:491 inc/integration/yoastseo.php:168
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#. Translators: "ISO" is an acronym that refers to a camera's sensitivity to
+#. light. %s is a placeholder for the ISO value.
+#: inc/template-tags.php:420
+msgid "ISO: %s"
+msgstr "ISO: %s"
+
+#. Translators: "Exposure" refers to a camera's shutter speed. %s is a
+#. placeholder for the shutter speed value.
+#: inc/template-tags.php:411
+msgid "Exposure: %s"
+msgstr "Exposición: %s"
+
+#. Translators: "Aperture" refers to the amount of light passing through a
+#. camera lens. %s is a placeholder for the aperture value, represented as an
+#. f-stop.
+#: inc/template-tags.php:402
+msgid "Aperture: %s"
+msgstr "Apertura: %s"
+
+#. Translators: "Focal length" refers to the length of a camera's lens. %s is a
+#. placeholder for the focal length value, and "mm" is the units in
+#. millimeters.
+#: inc/template-tags.php:393
+msgid "Focal length: %smm"
+msgstr "Longitud focal: %smm"
+
+#. Translators: "Taken" refers to the date that a photograph was taken. %s is a
+#. placeholder for that date.
+#: inc/template-tags.php:384
+msgid "Taken: %s"
+msgstr "Tomada: %s"
+
+#. Translators: "Camera" refers to the model name of a camera. %s is a
+#. placeholder for the model name.
+#: inc/template-tags.php:374
+msgid "Camera: %s"
+msgstr "Cámara: %s"
+
+#. Translators: this string denotes a camera f-stop. %s is a placeholder for
+#. the f-stop value. E.g. f/3.5
+#: inc/template-tags.php:353
+msgid "f/%s"
+msgstr "f/%s"
+
+#. Translators: this string denotes a camera shutter speed as a number of
+#. seconds. %s is a placeholder for the number.
+#: inc/template-tags.php:331
+msgid "%s seconds"
+msgstr "%s segundos"
+
+#. Translators: this string denotes a camera shutter speed as a fraction of a
+#. second. %s is a placeholder for the denominator of the fraction.
+#: inc/template-tags.php:325
+msgid "1/%s second"
+msgstr "1/%s segundo"
+
+#: inc/setup/misc.php:155
+msgid "Header Bar Navigation"
+msgstr "Navegación de la barra de la cabecera"
+
+#: inc/setup/misc.php:154
+msgid "Primary Navigation"
+msgstr "Navegación principal"
+
+#. Translators: this string is the label on the search submit button.
+#. Translators: this string is the label on the search submit button for screen
+#. readers.
+#: inc/customizer/definitions/layout.php:236 searchform.php:9
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/settings/definitions/thememod.php:175
+msgid "Search&hellip;"
+msgstr "Buscar&hellip;"
+
+#. Translators: this string is a label for a search input that is only visible
+#. to screen readers.
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Buscar:"
+
+#. Translators: this string indicates an amount of passed time. e.g. 5 minutes
+#. ago
+#: partials/entry-date.php:14
+msgid "%s ago"
+msgstr "hace %s"
+
+#. Translators: this string is an attribution of a post author. e.g. by Ernest
+#. Hemingway
+#: partials/entry-author.php:27
+msgid "by %s"
+msgstr "por %s"
+
+#. Translators: this string is a verb whose subject is a comment author. e.g.
+#. Bob says: Hello.
+#: inc/template-tags.php:62
+msgid "says:"
+msgstr "dice:"
+
+#: inc/formatting/manager.php:370
+msgid "bold"
+msgstr "bold"
+
+#: inc/formatting/manager.php:369
+msgid "normal"
+msgstr "normal"
+
+#: inc/formatting/manager.php:362
+msgid "outset"
+msgstr "comienzo"
+
+#: inc/formatting/manager.php:361
+msgid "inset"
+msgstr "recuadro"
+
+#: inc/formatting/manager.php:360
+msgid "ridge"
+msgstr "rugoso"
+
+#: inc/formatting/manager.php:359
+msgid "groove"
+msgstr "ranura"
+
+#: inc/formatting/manager.php:358
+msgid "double"
+msgstr "doble"
+
+#: inc/formatting/manager.php:357
+msgid "dashed"
+msgstr "con guiones"
+
+#: inc/formatting/manager.php:356
+msgid "dotted"
+msgstr "punteado"
+
+#: inc/formatting/manager.php:355
+msgid "solid"
+msgstr "sólido"
+
+#: inc/builder/core/base.php:352
+msgid "Note: the Builder Template does not display a featured image."
+msgstr "Nota: la plantilla del maquetador no muestra una imagen destacada."
+
+#: inc/font/source/generic.php:48
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: inc/font/source/generic.php:44
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/font/source/generic.php:40
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/choices/definitions/choices.php:18
+msgid "4"
+msgstr "4"
+
+#: inc/choices/definitions/choices.php:17
+msgid "3"
+msgstr "3"
+
+#: inc/choices/definitions/choices.php:16
+msgid "2"
+msgstr "2"
+
+#: inc/choices/definitions/choices.php:15
+msgid "1"
+msgstr "1"
+
+#: inc/choices/definitions/choices.php:14
+msgid "0"
+msgstr "0"
+
+#: inc/sections/gallery/definition.php:44
+msgid "Gallery"
+msgstr "Galería"
+
+#: inc/sections/banner/definition.php:56
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/plus/methods.php:294 inc/plus/methods.php:312 inc/plus/methods.php:402
+#: inc/plus/methods.php:429 inc/plus/methods.php:459
+msgid "Upgrade to Make Plus."
+msgstr "Actualizar a Make Plus."
+
+#. Translators: this string appears as the title of the Comments section of a
+#. post.
+#: comments.php:17
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Un comentario"
+msgstr[1] "%1$s comentarios"
+
+#. Template Name of the theme
+msgid "Builder Template"
+msgstr "Plantilla del maquetador"
+
+#: searchform.php:8
+msgid "Press Enter to submit your search"
+msgstr "Pulsa enter para buscar"
+
+#: partials/section-title.php:20
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] "Se ha encontrado %s resultado"
+msgstr[1] "Se han encontrado %s resultados"
+
+#: partials/section-title.php:14
+msgid "Search for %s"
+msgstr "Buscar por: %s"
+
+#: inc/customizer/definitions/layout.php:235 inc/layout/view.php:71
+msgid "Archive"
+msgstr "Archivo"
+
+#: partials/nav-post.php:23
+msgid "Post navigation"
+msgstr "Navegación de la entrada"
+
+#: partials/nav-paging.php:26
+msgid "Older posts"
+msgstr "Entradas anteriores"
+
+#: partials/nav-paging.php:18
+msgid "Newer posts"
+msgstr "Entradas siguientes"
+
+#: partials/nav-paging.php:9
+msgid "Posts navigation"
+msgstr "Navegación de entradas"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#. Translators: this HTML markup will display an icon representing blog tags.
+#: partials/entry-taxonomy.php:28
+msgid "<i class=\"fa fa-tag\"></i> "
+msgstr "<i class=\"fa fa-tag\"></i> "
+
+#. Translators: this HTML markup will display an icon representing blog
+#. categories.
+#: partials/entry-taxonomy.php:22
+msgid "<i class=\"fa fa-file\"></i> "
+msgstr "<i class=\"fa fa-file\"></i> "
+
+#: partials/entry-pagination.php:12
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: partials/content-none.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: partials/content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no encaja nada con los términos de la búsqueda. Inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: partials/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: partials/content-none.php:11
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: partials/content-image.php:23
+msgid "Technical Details"
+msgstr "Detalles técnicos"
+
+#: partials/content-attachment.php:11
+msgid "Download this file:"
+msgstr "Descargar este archivo:"
+
+#: inc/template-tags.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: inc/template-tags.php:45
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: inc/template-tags.php:27
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:27
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/galleryslider/setup.php:125
+msgid "Effect"
+msgstr "Efecto"
+
+#: inc/galleryslider/setup.php:117
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: inc/galleryslider/setup.php:104
+msgid "Show gallery as slider"
+msgstr "Mostrar galería como un carrusel"
+
+#: inc/galleryslider/setup.php:102
+msgid "Slider Settings"
+msgstr "Slider Settings"
+
+#: inc/formatting/manager.php:429
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: inc/formatting/manager.php:424
+msgid "Citation"
+msgstr "Cita"
+
+#: inc/formatting/manager.php:419
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/formatting/manager.php:414
+msgid "Big"
+msgstr "Grande"
+
+#: inc/formatting/manager.php:393
+msgid "Choose a line style"
+msgstr "Elegir un estilo de línea"
+
+#: inc/formatting/manager.php:392
+msgid "Insert Horizontal Line"
+msgstr "Insertar línea horizontal"
+
+#: inc/formatting/manager.php:390
+msgid "Choose"
+msgstr "Escoger"
+
+#: inc/formatting/manager.php:389
+msgid "Medical Icons"
+msgstr "Iconos Médicos"
+
+#: inc/formatting/manager.php:388
+msgid "Currency Icons"
+msgstr "Iconos de Monedas"
+
+#: inc/formatting/manager.php:387
+msgid "Payment Icons"
+msgstr "Iconos Medios de Pago"
+
+#: inc/formatting/manager.php:386
+msgid "Brand Icons"
+msgstr "Iconos de Marcas"
+
+#: inc/formatting/manager.php:385
+msgid "Chart Icons"
+msgstr "Iconos de Gráficos"
+
+#: inc/formatting/manager.php:384
+msgid "Form Control Icons"
+msgstr "Iconos de Controles de Formulario"
+
+#: inc/formatting/manager.php:383
+msgid "Video Player Icons"
+msgstr "Iconos Reproductor Vídeo"
+
+#: inc/formatting/manager.php:382
+msgid "Directional Icons"
+msgstr "Iconos de Dirección"
+
+#: inc/formatting/manager.php:381
+msgid "File Type Icons"
+msgstr "Iconos de Tipos de Archivo"
+
+#: inc/formatting/manager.php:380
+msgid "Spinner Icons"
+msgstr "Iconos Giratorios"
+
+#: inc/formatting/manager.php:379
+msgid "Text Editor Icons"
+msgstr "Iconos Editor de Texto"
+
+#: inc/formatting/manager.php:378
+msgid "Web Application Icons"
+msgstr "Iconos Aplicación Web"
+
+#: inc/formatting/manager.php:377
+msgid "Choose an icon"
+msgstr "Elige un icono"
+
+#: inc/formatting/manager.php:376
+msgid "Insert Icon"
+msgstr "Insertar icono"
+
+#: inc/formatting/manager.php:374
+msgid "List"
+msgstr "Lista"
+
+#: inc/formatting/manager.php:373
+msgid "Border Radius (px)"
+msgstr "Radio de Borde (px)"
+
+#: inc/formatting/manager.php:372
+msgid "Text Color (hover)"
+msgstr "Color de texto (al pasar el cursor)"
+
+#: inc/formatting/manager.php:371
+msgid "Background Color (hover)"
+msgstr "Color de fondo (al pasar el cursor)"
+
+#: inc/formatting/manager.php:367
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+#: inc/formatting/manager.php:366
+msgid "URL"
+msgstr "URL"
+
+#: inc/formatting/manager.php:365
+msgid "Button"
+msgstr "Botón"
+
+#: inc/formatting/manager.php:363
+msgid "Border Width (px)"
+msgstr "Ancho del borde (px)"
+
+#: inc/formatting/manager.php:354
+msgid "none"
+msgstr "ninguna"
+
+#: inc/formatting/manager.php:353
+msgid "Border Style"
+msgstr "Estilo del borde"
+
+#: inc/formatting/manager.php:352
+msgid "Vertical Padding (px)"
+msgstr "Relleno vertical (px)"
+
+#: inc/formatting/manager.php:351
+msgid "Horizontal Padding (px)"
+msgstr "Relleno horizontal (px)"
+
+#: inc/formatting/manager.php:350
+msgid "right"
+msgstr "derecha"
+
+#: inc/formatting/manager.php:349
+msgid "left"
+msgstr "izquierda"
+
+#: inc/formatting/manager.php:348
+msgid "Icon Position"
+msgstr "Posición del icono"
+
+#: inc/formatting/manager.php:347
+msgid "Icon Color"
+msgstr "Color de icono"
+
+#: inc/formatting/manager.php:345
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/formatting/manager.php:341
+msgid "Notice"
+msgstr "Aviso"
+
+#: inc/formatting/manager.php:340
+msgid "Add icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/control/socialicons.php:143 inc/formatting/manager.php:339
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/class-tgm-plugin-activation.php:2723 inc/formatting/manager.php:338
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/formatting/manager.php:337
+msgid "Insert"
+msgstr "Insertar"
+
+#: inc/formatting/manager.php:336
+msgid "Choose a format"
+msgstr "Elige un formato"
+
+#: inc/formatting/manager.php:335
+msgid "Format Builder"
+msgstr "Maquetador de formatos"
+
+#: inc/layout/view.php:67
+msgid "Blog (Post Page)"
+msgstr "Blog (Página de entrada)"
+
+#: inc/setup/widgets.php:165
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/setup/widgets.php:164
+msgid "This widget area is currently enabled for the following views: %s. Change this in the \"Layout\" panel of the Customizer."
+msgstr "Este área de widgets está activada actualmente para las siguientes vistas: %s. Cambia esto en el panel de \"diseño\" del personalizador."
+
+#: inc/setup/widgets.php:159
+msgid "This widget area is currently disabled. Enable it in the \"Layout\" panel of the Customizer."
+msgstr "Este área de widgets está desactivada actualmente. Actívala en el panel de \"diseño\" del personalizador."
+
+#: inc/plus/methods.php:397
+msgid "Looking to configure a unique layout for this %1$s? %2$s"
+msgstr "¿Quieres configurar un diseño único para este %1$s? %2$s"
+
+#: inc/customizer/definitions/layout.php:237 inc/layout/view.php:83
+#: inc/plus/methods.php:393
+msgid "Post"
+msgstr "Entrada"
+
+#: inc/plus/methods.php:372
+msgid "Layout Settings"
+msgstr "Layout Settings"
+
+#: inc/compatibility/deprecated/deprecated-1.7.php:2191
+#: inc/customizer/controls.php:680
+msgid "Loading&hellip;"
+msgstr "Cargando&hellip;"
+
+#: inc/customizer/datahelper.php:174
+msgid "Link Underline"
+msgstr "Subrayado de enlaces"
+
+#: inc/customizer/datahelper.php:159
+msgid "Word Spacing (px)"
+msgstr "Espaciado entre palabras (px)"
+
+#: inc/customizer/datahelper.php:144
+msgid "Letter Spacing (px)"
+msgstr "Espaciado de las letras (px)"
+
+#: inc/customizer/datahelper.php:129
+msgid "Line Height (em)"
+msgstr "Altura de Línea (em)"
+
+#: inc/customizer/datahelper.php:117
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: inc/customizer/datahelper.php:78
+msgid "Font Style"
+msgstr "Esitlo de Fuente"
+
+#: inc/customizer/datahelper.php:102 inc/formatting/manager.php:344
+msgid "Font Size (px)"
+msgstr "Tamaño de fuente (px)"
+
+#: inc/customizer/datahelper.php:66
+msgid "Font Family"
+msgstr "Familia de la fuente"
+
+#: inc/plus/methods.php:284
+msgid "Looking to add premium fonts from Typekit to your website?"
+msgstr "¿Quieres añadir fuentes premium de Typekit a tu web?"
+
+#: inc/plus/methods.php:283
+msgid "Typekit"
+msgstr "Typekit"
+
+#: inc/customizer/definitions/typography.php:129
+msgid "Google Fonts website"
+msgstr "Web de Google Fonts"
+
+#: inc/customizer/definitions/typography.php:125
+msgid "Not all fonts provide each of these subsets. Please visit the %s to see which subsets are available for each font."
+msgstr "No todas las fuentes proporcionan todos estos subconjuntos. Por favor, visita la %s para ver qué subconjuntos están disponibles para cada fuente."
+
+#: inc/customizer/definitions/typography.php:116
+msgid "Character Subset"
+msgstr "Subconjunto de caracteres"
+
+#: inc/customizer/definitions/typography.php:111
+msgid "Google Font Subsets"
+msgstr "Subconjuntos de Google Fonts"
+
+#: inc/customizer/definitions/typography.php:92
+#: inc/customizer/definitions/typography.php:102
+msgid "Widget Body"
+msgstr "Cuerpo del widget"
+
+#: inc/customizer/definitions/typography.php:91
+#: inc/customizer/definitions/typography.php:101
+msgid "Widget Title"
+msgstr "Título de Widget"
+
+#: inc/customizer/definitions/typography.php:82
+msgid "Includes Header Text, Header Bar Menu items, and the search field."
+msgstr "Incluye texto de la cabecera, elementos de la barra de menú de la cabecera y el campo de búsqueda."
+
+#: inc/customizer/definitions/typography.php:66
+msgid "Use Menu Item styles in mobile view"
+msgstr "Usar los estilos de elementos de menú en la vista móvil."
+
+#: inc/customizer/definitions/typography.php:60
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/customizer/definitions/typography.php:45
+msgid "Tagline"
+msgstr "Descripción corta"
+
+#: inc/customizer/definitions/typography.php:44
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/customizer/definitions/typography.php:35
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/definitions/typography.php:34
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/definitions/typography.php:33
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/definitions/typography.php:32
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/definitions/typography.php:31
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/definitions/typography.php:30
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/datahelper.php:90 inc/formatting/manager.php:368
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: inc/customizer/mods/site-title-tagline.php:74
+msgid "Hide Tagline"
+msgstr "Ocultar eslogan"
+
+#: inc/customizer/mods/site-title-tagline.php:56
+msgid "Hide Site Title"
+msgstr "Ocultar título del sitio"
+
+#: inc/plus/methods.php:302
+msgid "Want to remove the theme byline from your website&#8217;s footer?"
+msgstr "¿Quieres eliminar la firma del tema del pie de página de tu web?"
+
+#: inc/plus/methods.php:301
+msgid "White Label"
+msgstr "Marca blanca"
+
+#: inc/choices/definitions/choices.php:113 inc/socialicons/manager.php:337
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/choices/definitions/choices.php:112 inc/socialicons/manager.php:316
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/customizer/definitions/general.php:61
+msgid "Read More Label"
+msgstr "Etiqueta Leer más"
+
+#: inc/customizer/definitions/general.php:43
+msgid "Sticky Label"
+msgstr "Etiqueta fija"
+
+#: inc/customizer/definitions/general.php:34
+msgid "Mobile Menu Label"
+msgstr "Etiqueta del menú móvil"
+
+#: inc/customizer/definitions/general.php:17
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: inc/customizer/definitions/layout.php:399
+msgid "Generate excerpts automatically"
+msgstr "Generar extractos automáticamente"
+
+#: inc/customizer/definitions/layout.php:393
+#: inc/sections/columns/definition.php:52
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/definitions/layout.php:425
+msgid "Show tags"
+msgstr "Mostrar etiquetas"
+
+#: inc/customizer/definitions/layout.php:418
+msgid "Show categories"
+msgstr "Mostrar categorías"
+
+#: inc/customizer/definitions/layout.php:412
+msgid "Post Meta"
+msgstr "Meta de Entrada"
+
+#: inc/customizer/definitions/layout.php:437
+msgid "Comment Count"
+msgstr "Número de comentarios"
+
+#: inc/customizer/definitions/layout.php:348
+#: inc/customizer/definitions/layout.php:371
+#: inc/customizer/definitions/layout.php:443
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/customizer/definitions/layout.php:334
+msgid "Alignment"
+msgstr "Alineación"
+
+#: inc/customizer/definitions/layout.php:325
+#: inc/customizer/definitions/layout.php:357
+#: inc/customizer/definitions/layout.php:380
+#: inc/customizer/definitions/layout.php:452
+msgid "Location"
+msgstr "Ubicación"
+
+#: inc/customizer/definitions/layout.php:319
+msgid "Featured Images"
+msgstr "Imágenes destacadas"
+
+#: inc/customizer/definitions/layout.php:277
+msgid "Show right sidebar"
+msgstr "Mostrar barra lateral derecha"
+
+#: inc/customizer/definitions/layout.php:270
+msgid "Show left sidebar"
+msgstr "Mostrar barra lateral izquierda"
+
+#: inc/customizer/definitions/layout.php:263
+msgid "Hide site footer"
+msgstr "Ocultar pie de página del sitio"
+
+#: inc/customizer/definitions/layout.php:256
+msgid "Hide site header"
+msgstr "Ocultar cabecera del sitio"
+
+#: inc/customizer/definitions/layout.php:250
+msgid "Header, Footer, Sidebars"
+msgstr "Cabecera, pie de página, barras laterales"
+
+#: inc/customizer/definitions/layout.php:307
+msgid "Hide title"
+msgstr "Ocultar título"
+
+#: inc/customizer/definitions/layout.php:289
+msgid "Sidebars are not available on pages using the Builder Template."
+msgstr "Las barras laterales no están disponibles en las páginas que usan la plantilla del generador."
+
+#: inc/customizer/definitions/layout.php:230
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer/definitions/layout.php:229
+msgid "Posts"
+msgstr "Publicar"
+
+#: inc/customizer/definitions/layout.php:228 inc/layout/view.php:75
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: inc/customizer/definitions/layout.php:227
+msgid "Archives"
+msgstr "Archivo"
+
+#: inc/customizer/definitions/layout.php:226
+msgid "Blog (Posts Page)"
+msgstr "Blog (Página de entradas)"
+
+#: inc/customizer/definitions/layout.php:199
+msgid "Optional Footer Elements"
+msgstr "Elementos de pie de página opcionales"
+
+#: inc/customizer/definitions/layout.php:192
+#: inc/customizer/definitions/typography.php:103
+msgid "Footer Text"
+msgstr "Texto del pie"
+
+#: inc/customizer/definitions/layout.php:179
+msgid "Remove padding above footer"
+msgstr "Elimina el relleno encima del pie de página"
+
+#: inc/customizer/definitions/layout.php:165
+msgid "Footer Layout"
+msgstr "Disposición del pie de página"
+
+#: inc/customizer/definitions/layout.php:151
+msgid "Number of Widget Areas"
+msgstr "Número de áreas de widgets"
+
+#: inc/customizer/definitions/layout.php:125
+#: inc/customizer/definitions/layout.php:213 inc/formatting/manager.php:346
+msgid "Icon Size (px)"
+msgstr "Tamaño del icono (px)"
+
+#: inc/customizer/definitions/layout.php:117
+#: inc/customizer/definitions/layout.php:205
+msgid "Show social icons"
+msgstr "Mostrar iconos sociales"
+
+#: inc/customizer/definitions/layout.php:110
+msgid "Show search field"
+msgstr "Buscar campo de búsqueda"
+
+#: inc/customizer/definitions/layout.php:104
+msgid "Optional Header Elements"
+msgstr "Elementos de cabecera opcionales"
+
+#: inc/customizer/definitions/layout.php:97
+msgid "This text only appears if a custom menu has not been assigned to the Header Bar Menu location in the Navigation section."
+msgstr "Este texto solo aparece si no se ha asignado un menú personalizado a la posición de la barra de menú de la cabecera en la sección de navegación."
+
+#: inc/customizer/definitions/layout.php:96
+#: inc/customizer/definitions/typography.php:81
+msgid "Header Bar Text"
+msgstr "Texto de la barra de cabecera"
+
+#: inc/customizer/definitions/layout.php:90
+#: inc/customizer/definitions/layout.php:186
+msgid "Options"
+msgstr "Opciones"
+
+#: inc/customizer/definitions/layout.php:83
+msgid "Remove padding beneath header"
+msgstr "Elimina el relleno por debajo de la cabecera"
+
+#: inc/customizer/definitions/layout.php:77
+#: inc/customizer/definitions/layout.php:173
+msgid "Padding"
+msgstr "Relleno"
+
+#: inc/customizer/definitions/layout.php:69
+msgid "Header Bar Layout"
+msgstr "Diseño de la barra de cabecera"
+
+#: inc/customizer/definitions/layout.php:58
+msgid "Show Title/Logo On"
+msgstr "Mostrar título/logotipo"
+
+#: inc/customizer/definitions/layout.php:47
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: inc/customizer/definitions/layout.php:25
+msgid "Site Layout"
+msgstr "Disposición de Sitio"
+
+#: inc/customizer/definitions/color.php:528
+msgid "Footer Text Color"
+msgstr "Color del texto de pie de página"
+
+#: inc/customizer/definitions/color.php:471
+msgid "Widget Body Color"
+msgstr "Color de cuerpo del widget"
+
+#: inc/customizer/definitions/color.php:459
+msgid "Widget Title Color"
+msgstr "Color de título de widget"
+
+#: inc/customizer/definitions/color.php:452
+#: inc/customizer/definitions/layout.php:144
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/customizer/definitions/color.php:447
+#: inc/customizer/definitions/typography.php:89
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: inc/customizer/definitions/color.php:414
+#: inc/customizer/definitions/color.php:483
+#: inc/customizer/definitions/color.php:559 inc/formatting/manager.php:364
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: inc/customizer/definitions/color.php:395
+#: inc/customizer/definitions/color.php:501
+#: inc/customizer/definitions/color.php:535
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: inc/customizer/definitions/color.php:382
+#: inc/customizer/definitions/typography.php:78
+msgid "Header Bar"
+msgstr "Barra de Cabecera"
+
+#: inc/customizer/definitions/color.php:354
+#: inc/customizer/definitions/typography.php:71
+msgid "Current Item"
+msgstr "Elemento actual"
+
+#: inc/customizer/definitions/color.php:318
+msgid "Hover/Focus Background Color"
+msgstr "Color del fondo al pasar el cursor/establecer como foco"
+
+#: inc/customizer/definitions/color.php:256
+#: inc/customizer/definitions/typography.php:55
+msgid "Sub-Menu Items"
+msgstr "Elementos de Submenú"
+
+#: inc/customizer/definitions/color.php:250
+#: inc/customizer/definitions/color.php:275
+msgid "Hover/Focus Text Color"
+msgstr "Color del texto al pasar el cursor/establecer como foco"
+
+#: inc/customizer/definitions/color.php:240
+#: inc/customizer/definitions/color.php:265
+#: inc/customizer/definitions/color.php:284
+#: inc/customizer/definitions/color.php:296
+#: inc/customizer/definitions/color.php:320
+#: inc/customizer/definitions/color.php:404
+#: inc/customizer/definitions/color.php:461
+#: inc/customizer/definitions/color.php:473
+#: inc/customizer/definitions/color.php:485
+#: inc/customizer/definitions/color.php:503
+#: inc/customizer/definitions/color.php:537
+#: inc/customizer/definitions/color.php:549
+msgid "This option overrides the %s option in the %s section."
+msgstr "Esta opción sobrescribe la opción %s de la sección %s."
+
+#: inc/customizer/definitions/color.php:231
+#: inc/customizer/definitions/typography.php:54
+msgid "Menu Items"
+msgstr "Elementos del menú"
+
+#: inc/customizer/definitions/color.php:226
+#: inc/customizer/definitions/typography.php:52
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: inc/customizer/definitions/color.php:217
+msgid "Tagline Color"
+msgstr "Color del eslogan"
+
+#: inc/customizer/definitions/color.php:210
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: inc/customizer/definitions/color.php:201
+msgid "These options override the %s option in the %s section."
+msgstr "Estas opciones sobrescriben la opción %s de la sección %s."
+
+#: inc/customizer/definitions/color.php:199
+#: inc/customizer/definitions/typography.php:42
+msgid "Site Title &amp; Tagline"
+msgstr "Titulo &amp; Slogan"
+
+#: inc/customizer/definitions/color.php:172
+#: inc/customizer/definitions/color.php:294
+#: inc/customizer/definitions/color.php:348
+#: inc/customizer/definitions/color.php:361
+#: inc/customizer/definitions/color.php:420
+#: inc/customizer/definitions/color.php:565 inc/formatting/manager.php:342
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/definitions/color.php:160
+#: inc/customizer/definitions/color.php:203
+#: inc/customizer/definitions/color.php:242
+#: inc/customizer/definitions/color.php:267
+msgid "Site Header"
+msgstr "Sitio de Cabecera"
+
+#: inc/customizer/definitions/color.php:146
+#: inc/customizer/definitions/color.php:185
+#: inc/customizer/definitions/color.php:306
+#: inc/customizer/definitions/color.php:330
+#: inc/customizer/definitions/color.php:368
+#: inc/customizer/definitions/color.php:433
+#: inc/customizer/definitions/color.php:578
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: inc/customizer/definitions/color.php:133
+msgid "Main Column Background Color"
+msgstr "Color de fondo de la columna principal"
+
+#: inc/customizer/definitions/color.php:124
+#: inc/sections/banner/definition.php:101
+#: inc/sections/columns/definition.php:91
+#: inc/sections/gallery/definition.php:104
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/definitions/color.php:84
+msgid "The default link color is controlled by the \"Primary Color\" option above."
+msgstr "El color predeterminado de los enlaces se controla mediante la opción \"Color primario\" de encima."
+
+#: inc/customizer/definitions/color.php:83
+#: inc/customizer/definitions/color.php:402
+#: inc/customizer/definitions/color.php:405
+#: inc/customizer/definitions/color.php:513
+#: inc/customizer/definitions/color.php:547
+#: inc/customizer/definitions/color.php:550
+msgid "Link Hover/Focus Color"
+msgstr "Color del enlace al pasar el cursor/establecer como foco"
+
+#: inc/customizer/definitions/color.php:76
+#: inc/customizer/definitions/color.php:494
+#: inc/customizer/definitions/typography.php:20
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/customizer/definitions/color.php:69
+msgid "UI icons"
+msgstr "Iconos de UI"
+
+#: inc/customizer/definitions/color.php:66
+#: inc/customizer/definitions/color.php:282
+#: inc/customizer/definitions/color.php:285
+msgid "Detail Color"
+msgstr "Color de detalle"
+
+#: inc/customizer/definitions/color.php:58
+msgid "most text"
+msgstr "la mayoría de texto"
+
+#: inc/customizer/definitions/color.php:55
+#: inc/customizer/definitions/color.php:166
+#: inc/customizer/definitions/color.php:202
+#: inc/customizer/definitions/color.php:238
+#: inc/customizer/definitions/color.php:241
+#: inc/customizer/definitions/color.php:263
+#: inc/customizer/definitions/color.php:266
+#: inc/customizer/definitions/color.php:388
+#: inc/customizer/definitions/color.php:462
+#: inc/customizer/definitions/color.php:474 inc/formatting/manager.php:343
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/customizer/definitions/color.php:47
+msgid "form inputs, table borders, ruled lines, slider buttons"
+msgstr "campos de entrada del formulario, bordes de la tabla, líneas con renglones, botones del carrusel"
+
+#: inc/customizer/definitions/color.php:44
+#: inc/customizer/definitions/color.php:297
+#: inc/customizer/definitions/color.php:486
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: inc/customizer/definitions/color.php:36
+msgid "links"
+msgstr "enlaces"
+
+#: inc/customizer/definitions/color.php:35
+#: inc/customizer/definitions/color.php:46
+#: inc/customizer/definitions/color.php:57
+#: inc/customizer/definitions/color.php:68
+msgid "Used for: %s"
+msgstr "Usado para: %s"
+
+#: inc/customizer/definitions/color.php:33
+#: inc/customizer/definitions/color.php:321
+#: inc/customizer/definitions/color.php:504
+#: inc/customizer/definitions/color.php:538
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer/definitions/color.php:26
+msgid "Color Scheme"
+msgstr "Combinación de colores"
+
+#: inc/customizer/definitions/color.php:17
+#: inc/customizer/definitions/color.php:286
+#: inc/customizer/definitions/color.php:298
+#: inc/customizer/definitions/color.php:322
+#: inc/customizer/definitions/color.php:406
+#: inc/customizer/definitions/color.php:463
+#: inc/customizer/definitions/color.php:475
+#: inc/customizer/definitions/color.php:487
+#: inc/customizer/definitions/color.php:505
+#: inc/customizer/definitions/color.php:539
+#: inc/customizer/definitions/color.php:551
+#: inc/customizer/definitions/layout.php:17
+#: inc/customizer/definitions/typography.php:17
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/mods/background.php:33
+msgid "Site"
+msgstr "Sitio"
+
+#: inc/customizer/mods/background.php:26
+msgid "Site Background Color"
+msgstr "Antecedentes del sitio de color"
+
+#: inc/customizer/definitions/background-images.php:61
+#: inc/customizer/mods/background.php:66
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/customizer/definitions/background-images.php:52
+#: inc/customizer/mods/background.php:57
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: inc/customizer/definitions/background-images.php:44
+#: inc/sections/banner/definition.php:115
+#: inc/sections/columns/definition.php:105
+#: inc/sections/gallery/definition.php:118
+msgid "Position"
+msgstr "Posición"
+
+#: inc/customizer/definitions/background-images.php:35
+#: inc/customizer/mods/background.php:42
+msgid "Repeat"
+msgstr "Repetir"
+
+#: inc/customizer/definitions/background-images.php:29
+#: inc/customizer/mods/background.php:40
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/definitions/background-images.php:16
+msgid "Main Column"
+msgstr "Columna principal"
+
+#: inc/font/source/google.php:73
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/settings/definitions/thememod.php:174
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/settings/definitions/thememod.php:173
+msgid "Featured"
+msgstr "Destacado"
+
+#: inc/settings/definitions/thememod.php:172
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/choices/definitions/choices.php:109
+msgid "Post footer"
+msgstr "Pie de entrada"
+
+#: inc/choices/definitions/choices.php:108
+msgid "Before content"
+msgstr "Antes del contenido"
+
+#: inc/choices/definitions/choices.php:57
+msgid "With text"
+msgstr "Con el texto"
+
+#: inc/choices/definitions/choices.php:56
+msgid "With icon"
+msgstr "Con icono"
+
+#: inc/choices/definitions/choices.php:97
+msgid "Without avatar"
+msgstr "Sin avatar"
+
+#: inc/choices/definitions/choices.php:96
+msgid "With avatar"
+msgstr "Con avatar"
+
+#. Translators: %s is a placeholder for a date.
+#: inc/choices/definitions/choices.php:103
+msgid "Relative (1 week ago)"
+msgstr "Relativo (hace 1 semana)"
+
+#. Translators: %s is a placeholder for a date.
+#: inc/choices/definitions/choices.php:102
+msgid "Absolute (%s)"
+msgstr "Absoluto (%s)"
+
+#: inc/choices/definitions/choices.php:62
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: inc/choices/definitions/choices.php:61
+msgid "Post header"
+msgstr "Cabecera de entrada"
+
+#: inc/choices/definitions/choices.php:83
+msgid "Flipped"
+msgstr "Volteado"
+
+#: inc/choices/definitions/choices.php:75
+#: inc/choices/definitions/choices.php:87
+msgid "Centered"
+msgstr "Centrada"
+
+#: inc/choices/definitions/choices.php:74
+#: inc/choices/definitions/choices.php:86
+msgid "Traditional"
+msgstr "Tradicional"
+
+#: inc/choices/definitions/choices.php:79
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/choices/definitions/choices.php:78
+msgid "Full-width"
+msgstr "Ancho Completo"
+
+#: inc/choices/definitions/choices.php:53
+#: inc/sections/banner/definition.php:287
+#: inc/sections/columns/definition.php:187
+#: inc/sections/gallery/definition.php:269
+msgid "Contain"
+msgstr "Contiene"
+
+#: inc/choices/definitions/choices.php:51
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/choices/definitions/choices.php:42
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/choices/definitions/choices.php:41
+msgid "Scroll"
+msgstr "Desplazamiento"
+
+#: inc/choices/definitions/choices.php:38
+msgid "Bottom Right"
+msgstr "Abajo Derecha"
+
+#: inc/choices/definitions/choices.php:37
+#: inc/sections/banner/definition.php:295
+#: inc/sections/columns/definition.php:195
+#: inc/sections/gallery/definition.php:259
+msgid "Bottom"
+msgstr "Abajo"
+
+#: inc/choices/definitions/choices.php:36
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+#: inc/choices/definitions/choices.php:26
+#: inc/choices/definitions/choices.php:34
+#: inc/sections/banner/definition.php:294
+#: inc/sections/columns/definition.php:194
+#: inc/sections/gallery/definition.php:258
+msgid "Center"
+msgstr "Center"
+
+#: inc/choices/definitions/choices.php:32
+msgid "Top Right"
+msgstr "Arriba derecha"
+
+#: inc/choices/definitions/choices.php:31
+#: inc/choices/definitions/choices.php:107
+#: inc/sections/banner/definition.php:293
+#: inc/sections/columns/definition.php:193
+#: inc/sections/gallery/definition.php:257
+msgid "Top"
+msgstr "Arriba"
+
+#: inc/choices/definitions/choices.php:30
+msgid "Top Left"
+msgstr "Arriba izquierda"
+
+#: inc/choices/definitions/choices.php:48
+msgid "Tile Vertically"
+msgstr "Mosaico vertical"
+
+#: inc/choices/definitions/choices.php:47
+msgid "Tile Horizontally"
+msgstr "Mosaico horizontal"
+
+#: inc/choices/definitions/choices.php:45
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: inc/choices/definitions/choices.php:93
+msgid "Never"
+msgstr "Nunca"
+
+#: inc/choices/definitions/choices.php:92
+msgid "On hover/focus"
+msgstr "Al pasar el cursor/establecer como foco"
+
+#: inc/choices/definitions/choices.php:91
+msgid "Always"
+msgstr "Siempre"
+
+#: inc/choices/definitions/choices.php:119
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: inc/choices/definitions/choices.php:118
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/choices/definitions/choices.php:67
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/choices/definitions/choices.php:71
+msgid "Bold"
+msgstr "Negrita"
+
+#: inc/choices/definitions/choices.php:66
+#: inc/choices/definitions/choices.php:70
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/controls.php:681
+msgid "No matching fonts"
+msgstr "No coincide ninguna fuente"
+
+#: inc/customizer/mods/widgets.php:28
+msgid "Sidebars & Widgets"
+msgstr "Barras laterales y widgets"
+
+#: inc/customizer/definitions/background-images.php:17
+#: inc/customizer/definitions/color.php:522
+#: inc/customizer/definitions/layout.php:139
+#: inc/customizer/definitions/typography.php:99
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/definitions/background-images.php:15
+#: inc/customizer/definitions/layout.php:36
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/controls.php:216 inc/customizer/definitions/layout.php:41
+#: inc/customizer/definitions/layout.php:159
+msgid "Layout"
+msgstr "Disposición"
+
+#: inc/customizer/controls.php:212
+msgid "Background Images"
+msgstr "Imágenes de fondo"
+
+#: inc/customizer/controls.php:208
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/controls.php:204
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/controls.php:200 inc/sections/banner/definition.php:74
+#: inc/sections/columns/definition.php:70
+#: inc/sections/gallery/definition.php:62
+msgid "General"
+msgstr "Generales"
+
+#: inc/compatibility/methods.php:252
+msgid "The uploaded package appears to be a plugin. PLEASE INSTALL AS A PLUGIN."
+msgstr "El paquete subido parece un plugin. POR FAVOR, INSTÁLALO COMO UN PLUGIN."
+
+#: inc/sections/gallery/definition.php:251
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/sections/gallery/definition.php:250
+msgid "Light"
+msgstr "Ligero"
+
+#: inc/sections/gallery/definition.php:98
+msgid "Caption color"
+msgstr "Color de la leyenda"
+
+#: inc/sections/gallery/definition.php:243
+msgid "Overlay"
+msgstr "Superponer"
+
+#: inc/sections/gallery/definition.php:242
+msgid "Reveal"
+msgstr "Revelar"
+
+#: inc/sections/gallery/definition.php:91
+msgid "Caption style"
+msgstr "Estilo de la leyenda"
+
+#: inc/sections/gallery/definition.php:235
+msgid "Portrait"
+msgstr "Retrato"
+
+#: inc/sections/gallery/definition.php:234
+msgid "Landscape"
+msgstr "Apaisado"
+
+#: inc/sections/gallery/definition.php:233
+msgid "Square"
+msgstr "Cuadrado"
+
+#: inc/sections/gallery/definition.php:84
+msgid "Aspect ratio"
+msgstr "Relación de aspecto"
+
+#: inc/sections/gallery/definition.php:46
+msgid "Display your images in various grid combinations."
+msgstr "Muestra tus imágenes usando varias combinaciones de cuadrícula."
+
+#: inc/sections/banner/definition.php:279
+msgid "Aspect"
+msgstr "Aspecto"
+
+#: inc/choices/definitions/choices.php:82
+#: inc/customizer/definitions/typography.php:19
+#: inc/sections/banner/definition.php:263
+#: inc/sections/banner/definition.php:278
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/sections/banner/definition.php:96
+msgid "Choose how the Banner will respond to varying screen widths. Default is ideal for large amounts of written content, while Aspect is better for showing your images."
+msgstr "Elige cómo responderá el banner a diferentes anchos de pantalla. El valor Predeterminado es ideal para grandes cantidades de contenido escrito, mientras que Aspecto es mejor para mostrar imágenes."
+
+#: inc/sections/banner/definition.php:93
+msgid "Responsive behavior"
+msgstr "Comportamiento adaptable"
+
+#: inc/sections/banner/definition.php:87
+msgid "Section height (px)"
+msgstr "Altura de la sección (px)"
+
+#: inc/galleryslider/setup.php:128 inc/sections/banner/definition.php:271
+msgid "Fade"
+msgstr "Fundido"
+
+#: inc/galleryslider/setup.php:127 inc/sections/banner/definition.php:270
+msgid "Slide horizontal"
+msgstr "Deslizar horizontal"
+
+#: inc/sections/banner/definition.php:174
+msgid "Transition effect"
+msgstr "Efecto de transición"
+
+#: inc/galleryslider/setup.php:121
+msgid "Time between slides (ms)"
+msgstr "Tiempo entre diapositivas (ms)"
+
+#: inc/sections/banner/definition.php:161
+msgid "Autoplay slideshow"
+msgstr "Reproducir carrusel automáticamente"
+
+#: inc/galleryslider/setup.php:113
+msgid "Hide navigation dots"
+msgstr "Ocultar puntos de navegación"
+
+#: inc/galleryslider/setup.php:109
+msgid "Hide navigation arrows"
+msgstr "Ocultar flechas de navegación"
+
+#: inc/sections/banner/definition.php:58
+msgid "Display multiple types of content in a banner or a slider."
+msgstr "Muestra varios tipos de contenido en un banner o un carrusel."
+
+#: inc/choices/definitions/choices.php:52
+#: inc/sections/banner/definition.php:286
+#: inc/sections/columns/definition.php:186
+#: inc/sections/gallery/definition.php:268
+msgid "Cover"
+msgstr "Cubierta"
+
+#: inc/choices/definitions/choices.php:46
+#: inc/sections/banner/definition.php:285
+#: inc/sections/columns/definition.php:185
+#: inc/sections/gallery/definition.php:267
+msgid "Tile"
+msgstr "Mosaico"
+
+#: inc/sections/banner/definition.php:108
+#: inc/sections/columns/definition.php:98
+#: inc/sections/gallery/definition.php:111
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+#: inc/sections/columns/definition.php:85
+#: inc/sections/gallery/definition.php:76
+msgid "Columns"
+msgstr "Columnas"
+
+#: inc/sections/banner/definition.php:81 inc/sections/columns/definition.php:77
+#: inc/sections/gallery/definition.php:69
+msgid "Enter section title"
+msgstr "Escribe el título de la sección"
+
+#: inc/sections/columns/definition.php:54
+msgid "Create rearrangeable content of text and images."
+msgstr "Crea contenido reorganizable de texto e imágenes."
+
+#: inc/sections/columns/builder-template-column.php:56
+msgid "Drag-and-drop this column into place"
+msgstr "Arrastra y suelta esta columna en su lugar"
+
+#: inc/sections/columns/builder-template.php:55
+#: inc/sections/gallery/builder-template.php:14
+#: inc/sections/gallery/builder-template.php:16
+msgid "Add new item"
+msgstr "Añadir nueva promoción"
+
+#: inc/sections/gallery/definition.php:166
+msgid "Item link URL"
+msgstr "URL del enlace del elemento"
+
+#: inc/sections/gallery/definition.php:159
+msgid "Enter item title"
+msgstr "Escribe el título del elemento"
+
+#: inc/sections/gallery/builder-template-item.php:31
+#: inc/sections/gallery/builder-template-item.php:34
+msgid "Configure item"
+msgstr "Configurar elemento"
+
+#: inc/sections/gallery/builder-template-item.php:58
+msgid "Set gallery image"
+msgstr "Asignar imagen de galería"
+
+#: inc/sections/gallery/builder-template-item.php:14
+msgid "Drag-and-drop this item into place"
+msgstr "Arrastra y suelta este elemento en su lugar"
+
+#: inc/sections/banner/builder-template.php:13
+#: inc/sections/banner/builder-template.php:15
+msgid "Add new slide"
+msgstr "Añadir diapositiva nueva"
+
+#: inc/sections/banner/definition.php:136
+#: inc/sections/banner/definition.php:203
+#: inc/sections/columns/definition.php:126
+#: inc/sections/gallery/definition.php:139
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: inc/choices/definitions/choices.php:22
+#: inc/choices/definitions/choices.php:27
+#: inc/choices/definitions/choices.php:35
+#: inc/sections/banner/definition.php:192
+#: inc/sections/banner/definition.php:297
+#: inc/sections/columns/definition.php:197
+#: inc/sections/gallery/definition.php:261
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/choices/definitions/choices.php:21
+#: inc/choices/definitions/choices.php:25
+#: inc/choices/definitions/choices.php:33
+#: inc/sections/banner/definition.php:191
+#: inc/sections/banner/definition.php:296
+#: inc/sections/columns/definition.php:196
+#: inc/sections/gallery/definition.php:260
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/choices/definitions/choices.php:58
+#: inc/choices/definitions/choices.php:63
+#: inc/choices/definitions/choices.php:98
+#: inc/choices/definitions/choices.php:104
+#: inc/choices/definitions/choices.php:117 inc/galleryslider/setup.php:129
+#: inc/sections/banner/definition.php:190
+#: inc/sections/banner/definition.php:272
+#: inc/sections/gallery/definition.php:236
+#: inc/sections/gallery/definition.php:244
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/sections/banner/definition.php:187
+msgid "Content position"
+msgstr "Posición del contenido"
+
+#: inc/sections/banner/builder-template-slide.php:30
+#: inc/sections/banner/builder-template-slide.php:33
+msgid "Configure slide"
+msgstr "Configurar diapositiva"
+
+#: inc/sections/banner/builder-template-slide.php:57
+msgid "Set banner image"
+msgstr "Establecer imagen del banner"
+
+#: inc/sections/banner/builder-template-slide.php:13
+msgid "Drag-and-drop this slide into place"
+msgstr "Arrastra y suelta esta diapositiva en su lugar"
+
+#: inc/builder/core/templates/section-header.php:103
+msgid "Click to toggle"
+msgstr "Haz clic para cambiar"
+
+#: inc/builder/core/templates/section-header.php:24
+#: inc/builder/core/templates/section-header.php:25
+msgid "Configure section"
+msgstr "Configurar sección"
+
+#: inc/plus/methods.php:256
+msgid "Upgrade to Make Plus"
+msgstr "Actualizar a Make Plus"
+
+#: inc/plus/methods.php:425
+msgid "Looking for more sections and options? %s"
+msgstr "¿Quieres más secciones y opciones? %s"
+
+#: inc/plus/methods.php:421
+msgid "Get more."
+msgstr "Conseguir más."
+
+#: inc/plus/methods.php:334
+msgid "Duplicate this page with %s."
+msgstr "Duplicar esta página con %s."
+
+#: inc/builder/core/base.php:539
+#: inc/builder/core/templates/overlay-configuration.php:71
+msgid "Remove Current Image"
+msgstr "Eliminar imagen actual"
+
+#: inc/builder/core/base.php:537
+#: inc/builder/core/templates/overlay-configuration.php:69
+msgid "Current image"
+msgstr "Imagen actual"
+
+#: inc/builder/core/base.php:493 inc/builder/core/base.php:523
+#: inc/sections/banner/builder-template-slide.php:24
+#: inc/sections/banner/builder-template-slide.php:27
+#: inc/sections/columns/builder-template-column.php:18
+#: inc/sections/columns/builder-template-column.php:21
+#: inc/sections/gallery/builder-template-item.php:25
+#: inc/sections/gallery/builder-template-item.php:28
+msgid "Edit content"
+msgstr "Editar contenido"
+
+#: inc/builder/core/base.php:456 inc/builder/core/configuration-helpers.php:113
+msgid "Set image"
+msgstr "Asignar imagen"
+
+#: inc/builder/core/base.php:88
+msgid "Page Builder"
+msgstr "Constructor de páginas"
+
+#: inc/activation.php:35
+msgid "Make requires at least WordPress version %1$s. You are running version %2$s. Please upgrade and try again."
+msgstr "Make necesita al menos la versión %1$s de WordPress. Estás usando la versión %2$s. Por favor, actualízate y inténtalo de nuevo."
+
+#: inc/setup/widgets.php:115
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: inc/setup/widgets.php:114
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: inc/setup/widgets.php:113
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: inc/setup/widgets.php:112
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: inc/setup/widgets.php:111
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/setup/widgets.php:110
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:25 comments.php:41
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: 404.php:19
+msgid "Maybe try searching this website:"
+msgstr "Prueba a hacer una búsqueda en esta web:"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Está página no se encuentra."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://thethemefoundry.com"
+msgstr "https://thethemefoundry.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "The Theme Foundry"
+msgstr "The Theme Foundry"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://thethemefoundry.com/make/"
+msgstr "https://thethemefoundry.com/make/"
